@@ -1,0 +1,47 @@
+[
+  {
+    "error_id": 1,
+    "question_id": "7.3",
+    "section": 7,
+    "section_name": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "question_number": 3,
+    "question_text": "Který z těchto soudů rozhoduje o zrušení zákonů, které neodpovídají Ústavě České republiky?",
+    "current_answer": "A",
+    "correct_answer": "B",
+    "current_answer_text": "Vrchní soud.",
+    "correct_answer_text": "Ústavní soud.",
+    "severity": "CRITICAL",
+    "reason": "Constitutional Court (Ústavní soud) is the ONLY court that can rule on constitutionality of laws",
+    "fix_required": "Change correctAnswer from 'A' to 'B' in questions.json"
+  },
+  {
+    "error_id": 2,
+    "question_id": "7.5",
+    "section": 7,
+    "section_name": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "question_number": 5,
+    "question_text": "Pan Novotný pracuje jako advokát. Kterou z těchto činností může dělat?",
+    "current_answer": "A",
+    "correct_answer": "B",
+    "current_answer_text": "Určovat výši trestu za trestné činy.",
+    "correct_answer_text": "Poskytovat placené právní služby.",
+    "severity": "CRITICAL",
+    "reason": "Lawyers (advokáti) provide paid legal services. Only judges can determine criminal sentences.",
+    "fix_required": "Change correctAnswer from 'A' to 'B' in questions.json"
+  },
+  {
+    "error_id": 3,
+    "question_id": "7.7",
+    "section": 7,
+    "section_name": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "question_number": 7,
+    "question_text": "Co je úkolem státního zástupce?",
+    "current_answer": "A",
+    "correct_answer": "D",
+    "current_answer_text": "Vymáhat peníze.",
+    "correct_answer_text": "Podávat obžalobu proti obviněnému.",
+    "severity": "CRITICAL",
+    "reason": "State prosecutors (státní zástupce) file charges/indictments against defendants. Collecting money is an executor's role.",
+    "fix_required": "Change correctAnswer from 'A' to 'D' in questions.json"
+  }
+]

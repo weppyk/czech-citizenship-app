@@ -1,0 +1,7903 @@
+[
+  {
+    "id": "1.1",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 1,
+    "text": "Který svátek slaví Češi i lidé po celém světě 8. března?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Den matek."
+      },
+      {
+        "letter": "B",
+        "text": "Den učitelů."
+      },
+      {
+        "letter": "C",
+        "text": "Mezinárodní den žen."
+      },
+      {
+        "letter": "D",
+        "text": "Mezinárodní den dětí."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1.2",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 2,
+    "text": "Kterou přílohu tradičně jedí Češi ke smaženému kaprovi v mnoha domácnostech na Štědrý večer?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rýži."
+      },
+      {
+        "letter": "B",
+        "text": "Těstoviny."
+      },
+      {
+        "letter": "C",
+        "text": "Bramborový salát."
+      },
+      {
+        "letter": "D",
+        "text": "Houskové knedlíky."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1.3",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 3,
+    "text": "Kraslice je vejce, které se barví a zdobí. Kdy ženy a dívky dávají mužům kraslice?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na Dušičky."
+      },
+      {
+        "letter": "B",
+        "text": "Na Nový rok."
+      },
+      {
+        "letter": "C",
+        "text": "Na Štědrý den."
+      },
+      {
+        "letter": "D",
+        "text": "Na Velikonoce."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "1.4",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 4,
+    "text": "Který státní svátek se slaví v České republice na podzim?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Den obnovy samostatného českého státu."
+      },
+      {
+        "letter": "B",
+        "text": "Den boje za svobodu a demokracii."
+      },
+      {
+        "letter": "C",
+        "text": "Den upálení mistra Jana Husa."
+      },
+      {
+        "letter": "D",
+        "text": "Den vítězství."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1.5",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 5,
+    "text": "Velký pátek je svátek, který připomíná smrt Ježíše Krista. Ke kterému svátečnímu období patří Velký pátek?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "K Velikonocům."
+      },
+      {
+        "letter": "B",
+        "text": "K Dušičkám."
+      },
+      {
+        "letter": "C",
+        "text": "K Vánocům."
+      },
+      {
+        "letter": "D",
+        "text": "K adventu."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1.6",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 6,
+    "text": "Památce zesnulých se v Česku lidově říká Dušičky. Je to den, kdy se podle české tradice zdobí hroby květinami, rozsvěcují se svíčky a vzpomíná se na zemřelé. Ve kterém období se slaví tento svátek?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na jaře."
+      },
+      {
+        "letter": "B",
+        "text": "V létě."
+      },
+      {
+        "letter": "C",
+        "text": "Na podzim."
+      },
+      {
+        "letter": "D",
+        "text": "V zimě."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "1.7",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 7,
+    "text": "Den české státnosti je také svátkem svatého Václava. Kníže Václav z rodu Přemyslovců je patronem Čech a Moravy. Kdy se slaví Den české státnosti?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V září."
+      },
+      {
+        "letter": "B",
+        "text": "V říjnu."
+      },
+      {
+        "letter": "C",
+        "text": "V dubnu."
+      },
+      {
+        "letter": "D",
+        "text": "V květnu."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "1.8",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 8,
+    "text": "Který den si Češi obyčejně dávají vánoční dárky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "6. ledna."
+      },
+      {
+        "letter": "B",
+        "text": "24. prosince."
+      },
+      {
+        "letter": "C",
+        "text": "25. prosince."
+      },
+      {
+        "letter": "D",
+        "text": "26. prosince."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1.9",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 9,
+    "text": "Který z těchto svátků se připomíná v České republice v květnu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tři králové."
+      },
+      {
+        "letter": "B",
+        "text": "Svátek práce."
+      },
+      {
+        "letter": "C",
+        "text": "Vznik Československa."
+      },
+      {
+        "letter": "D",
+        "text": "Den boje za svobodu a demokracii."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "1.10",
+    "sectionNumber": 1,
+    "sectionName": "ZVYKY A TRADICE",
+    "questionNumber": 10,
+    "text": "Jana dostala od Mikuláše, čerta a anděla balíček, ve kterém byla jablka, mandarinky, čokoláda, brambory a také drobné dárky. Kdy dostala Jana tento balíček?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "6. ledna."
+      },
+      {
+        "letter": "B",
+        "text": "5. prosince."
+      },
+      {
+        "letter": "C",
+        "text": "24. prosince."
+      },
+      {
+        "letter": "D",
+        "text": "31. prosince."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2.1",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 1,
+    "text": "Při jízdě osobním autem mají řidič a spolujezdci podle zákona určité povinnosti. Co musí řidič a spolujezdec dodržovat?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Musí mít zapnuté pásy."
+      },
+      {
+        "letter": "B",
+        "text": "Musí mít zavřená přední okna."
+      },
+      {
+        "letter": "D",
+        "text": "Musí mít zamčené přední dveře."
+      },
+      {
+        "letter": "C",
+        "text": "Musí mít na sobě reflexní vesty."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2.2",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 2,
+    "text": "Paní Svobodová jezdí na kole do práce. Ve které situaci porušuje pravidla silničního provozu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jede na kole po chodníku."
+      },
+      {
+        "letter": "B",
+        "text": "Jede na kole po pravé straně silnice."
+      },
+      {
+        "letter": "C",
+        "text": "Jede na kole v řadě za svou kolegyní."
+      },
+      {
+        "letter": "D",
+        "text": "Jede na kole a dává rukou znamení o změně směru jízdy."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2.3",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 3,
+    "text": "Pan Svoboda chce řídit osobní automobil. Který typ řidičského průkazu potřebuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Řidičský průkaz skupiny A."
+      },
+      {
+        "letter": "B",
+        "text": "Řidičský průkaz skupiny B."
+      },
+      {
+        "letter": "C",
+        "text": "Řidičský průkaz skupiny C."
+      },
+      {
+        "letter": "D",
+        "text": "Řidičský průkaz skupiny D."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2.4",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 4,
+    "text": "Kolik piv s obsahem alkoholu může vypít řidič podle zákona při řízení auta v Česku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tři."
+      },
+      {
+        "letter": "B",
+        "text": "Dvě."
+      },
+      {
+        "letter": "C",
+        "text": "Jedno."
+      },
+      {
+        "letter": "D",
+        "text": "Žádné."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "2.5",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 5,
+    "text": "Který dopravní prostředek má přednost před chodcem na přechodu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Auto."
+      },
+      {
+        "letter": "B",
+        "text": "Tramvaj."
+      },
+      {
+        "letter": "C",
+        "text": "Autobus."
+      },
+      {
+        "letter": "D",
+        "text": "Motocykl."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "2.6",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 6,
+    "text": "Paní Svobodová si koupila nový automobil. Které pojištění musí podle zákona uzavřít?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Povinné ručení."
+      },
+      {
+        "letter": "B",
+        "text": "Životní pojištění."
+      },
+      {
+        "letter": "C",
+        "text": "Úrazové pojištění."
+      },
+      {
+        "letter": "D",
+        "text": "Havarijní pojištění."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "2.7",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 7,
+    "text": "Kdo má povinnost nosit podle zákona oblečení s reflexními prvky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Osoba, která jde v noci v obci po chodníku."
+      },
+      {
+        "letter": "B",
+        "text": "Osoba, která jde ve dne v obci po chodníku."
+      },
+      {
+        "letter": "C",
+        "text": "Osoba, která jde v noci mimo obec po silnici."
+      },
+      {
+        "letter": "D",
+        "text": "Osoba, která jde ve dne mimo obec po silnici."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2.8",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 8,
+    "text": "V České republice je několik druhů dálničních známek, které se liší dobou platnosti. Který druh dálniční známky není možné koupit?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "S platností 1 den."
+      },
+      {
+        "letter": "B",
+        "text": "S platností 10 dní."
+      },
+      {
+        "letter": "C",
+        "text": "S platností 30 dní."
+      },
+      {
+        "letter": "D",
+        "text": "S platností 90 dní."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "2.9",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 9,
+    "text": "Od kolika let mohou jezdit děti po silnici na kole bez dohledu další osoby?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Od 3 let."
+      },
+      {
+        "letter": "B",
+        "text": "Od 6 let."
+      },
+      {
+        "letter": "C",
+        "text": "Od 10 let."
+      },
+      {
+        "letter": "D",
+        "text": "Od 18 let."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "2.10",
+    "sectionNumber": 2,
+    "sectionName": "DOPRAVA",
+    "questionNumber": 10,
+    "text": "Která z uvedených věcí patří k povinné výbavě osobního automobilu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rádio."
+      },
+      {
+        "letter": "B",
+        "text": "Lékárnička."
+      },
+      {
+        "letter": "C",
+        "text": "Destilovaná voda."
+      },
+      {
+        "letter": "D",
+        "text": "Nádoba na benzin."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3.1",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 1,
+    "text": "Paní Novotná vidí požár. Chce zavolat hasiče. Na které z těchto telefonních čísel zavolá?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "150."
+      },
+      {
+        "letter": "B",
+        "text": "155."
+      },
+      {
+        "letter": "C",
+        "text": "156."
+      },
+      {
+        "letter": "D",
+        "text": "158."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3.2",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 2,
+    "text": "Které telefonní číslo má zdravotnická záchranná služba?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "150."
+      },
+      {
+        "letter": "B",
+        "text": "155."
+      },
+      {
+        "letter": "C",
+        "text": "156."
+      },
+      {
+        "letter": "D",
+        "text": "158."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3.3",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 3,
+    "text": "Paní Svobodová není spokojená se svou zdravotní pojišťovnou. Jak často může změnit zdravotní pojišťovnu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jednou za měsíc."
+      },
+      {
+        "letter": "B",
+        "text": "Jednou za 3 měsíce."
+      },
+      {
+        "letter": "C",
+        "text": "Jednou za 6 měsíců."
+      },
+      {
+        "letter": "D",
+        "text": "Jednou za 12 měsíců."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "3.4",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 4,
+    "text": "Pan Novák je nemocný. Omylem si smazal SMS s receptem na předepsané léky. Který doklad může pan Novák v lékárně předložit, aby dostal předepsané léky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rodný list."
+      },
+      {
+        "letter": "B",
+        "text": "Řidičský průkaz."
+      },
+      {
+        "letter": "C",
+        "text": "Očkovací průkaz."
+      },
+      {
+        "letter": "D",
+        "text": "Občanský průkaz."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "3.5",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 5,
+    "text": "Integrovaný záchranný systém (IZS) se podílí na řešení mimořádných událostí a provádí záchranné práce. Co nepatří do Integrovaného záchranného systému (IZS) České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Policie ČR."
+      },
+      {
+        "letter": "B",
+        "text": "Krajské úřady ČR."
+      },
+      {
+        "letter": "C",
+        "text": "Hasičský záchranný sbor ČR."
+      },
+      {
+        "letter": "D",
+        "text": "Poskytovatelé záchranné zdravotnické služby ČR."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "3.6",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 6,
+    "text": "Které telefonní číslo má jednotný záchranný systém (hasiči, policie, zdravotnická záchranná služba) ve všech státech Evropské unie?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "112."
+      },
+      {
+        "letter": "B",
+        "text": "150."
+      },
+      {
+        "letter": "C",
+        "text": "911."
+      },
+      {
+        "letter": "D",
+        "text": "999."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3.7",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 7,
+    "text": "Od roku 2020 vystavují lékaři v České republice pouze elektronické neschopenky (doklad o pracovní neschopnosti). Které instituci lékař posílá elektronickou neschopenku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zdravotní pojišťovně."
+      },
+      {
+        "letter": "B",
+        "text": "Ministerstvu zdravotnictví."
+      },
+      {
+        "letter": "C",
+        "text": "Okresní hygienické stanici."
+      },
+      {
+        "letter": "D",
+        "text": "Okresní správě sociálního zabezpečení."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "3.8",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 8,
+    "text": "Pan Novák viděl dopravní nehodu. Chce volat Policii České republiky. Které telefonní číslo použije?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "150."
+      },
+      {
+        "letter": "B",
+        "text": "155."
+      },
+      {
+        "letter": "C",
+        "text": "156."
+      },
+      {
+        "letter": "D",
+        "text": "158."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "3.9",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 9,
+    "text": "Pan Novotný je občanem České republiky, je nezaměstnaný a je registrovaný na úřadu práce jako uchazeč o zaměstnání. Kdo platí jeho povinné zdravotní pojištění?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Stát."
+      },
+      {
+        "letter": "B",
+        "text": "Finanční úřad."
+      },
+      {
+        "letter": "C",
+        "text": "Platí si ho sám."
+      },
+      {
+        "letter": "D",
+        "text": "Jeho poslední zaměstnavatel."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "3.10",
+    "sectionNumber": 3,
+    "sectionName": "ZDRAVOTNÍ A ZÁCHRANNÝ SYSTÉM",
+    "questionNumber": 10,
+    "text": "Pan Svoboda ztratil průkaz pojištěnce zdravotní pojišťovny. Do kolika dnů musí nahlásit ztrátu zdravotní pojišťovně?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Do jednoho dne."
+      },
+      {
+        "letter": "B",
+        "text": "Do osmi dnů."
+      },
+      {
+        "letter": "C",
+        "text": "Do třiceti dnů."
+      },
+      {
+        "letter": "D",
+        "text": "Do šedesáti dnů."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "4.1",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 1,
+    "text": "Z čeho se skládá jednotná přijímací zkouška na střední školy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Z českého jazyka a dějepisu."
+      },
+      {
+        "letter": "B",
+        "text": "Z českého jazyka a zeměpisu."
+      },
+      {
+        "letter": "C",
+        "text": "Z českého jazyka a matematiky."
+      },
+      {
+        "letter": "D",
+        "text": "Z českého jazyka a anglického jazyka."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "4.2",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 2,
+    "text": "Manželé Novákovi mají malou dceru. Od kolika let musí navštěvovat jejich dcera povinně mateřskou školu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Od 3 let."
+      },
+      {
+        "letter": "B",
+        "text": "Od 4 let."
+      },
+      {
+        "letter": "C",
+        "text": "Od 5 let."
+      },
+      {
+        "letter": "D",
+        "text": "Od 6 let."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "4.3",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 3,
+    "text": "Kolik let trvá v České republice povinná školní docházka?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "5 let."
+      },
+      {
+        "letter": "B",
+        "text": "9 let."
+      },
+      {
+        "letter": "C",
+        "text": "12 let."
+      },
+      {
+        "letter": "D",
+        "text": "15 let."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "4.4",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 4,
+    "text": "Kdy mají žáci základních a středních škol v České republice hlavní prázdniny?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V září a v říjnu."
+      },
+      {
+        "letter": "B",
+        "text": "V únoru a v březnu."
+      },
+      {
+        "letter": "C",
+        "text": "V dubnu a v květnu."
+      },
+      {
+        "letter": "D",
+        "text": "V červenci a v srpnu."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "4.5",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 5,
+    "text": "Dcera paní Svobodové ukončila studium státní závěrečnou zkouškou a obhájila diplomovou práci. Kterou školu právě ukončila?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gymnázium."
+      },
+      {
+        "letter": "B",
+        "text": "Vysokou školu."
+      },
+      {
+        "letter": "C",
+        "text": "Obchodní akademii."
+      },
+      {
+        "letter": "D",
+        "text": "Střední průmyslovou školu."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "4.6",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 6,
+    "text": "Manželé Svobodovi mají čtyři děti. Aleně jsou 4 roky, Janovi 10 let, Ivanovi 19 let a Tereze je 21 let. Které z jejich dětí má povinnou školní docházku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jan."
+      },
+      {
+        "letter": "B",
+        "text": "Ivan."
+      },
+      {
+        "letter": "C",
+        "text": "Alena."
+      },
+      {
+        "letter": "D",
+        "text": "Tereza."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "4.7",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 7,
+    "text": "Jana Svobodová vystudovala na lékařské fakultě tříletý obor Všeobecná sestra. Který vysokoškolský titul získala?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bc."
+      },
+      {
+        "letter": "B",
+        "text": "Mgr."
+      },
+      {
+        "letter": "C",
+        "text": "MgA."
+      },
+      {
+        "letter": "D",
+        "text": "MUDr."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "4.8",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 8,
+    "text": "Na které škole získala Ing. Petra Novotná své nejvyšší vzdělání?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na střední ekonomické škole."
+      },
+      {
+        "letter": "B",
+        "text": "Na střední průmyslové škole."
+      },
+      {
+        "letter": "C",
+        "text": "Na vyšší odborné škole."
+      },
+      {
+        "letter": "D",
+        "text": "Na vysoké škole."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "4.9",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 9,
+    "text": "Jak se jmenují střední školy, které poskytují všeobecné vzdělání?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gymnázia."
+      },
+      {
+        "letter": "B",
+        "text": "Obchodní akademie."
+      },
+      {
+        "letter": "C",
+        "text": "Střední odborná učiliště."
+      },
+      {
+        "letter": "D",
+        "text": "Střední průmyslové školy."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "4.10",
+    "sectionNumber": 4,
+    "sectionName": "VZDĚLÁVÁNÍ",
+    "questionNumber": 10,
+    "text": "Petr je v 9. ročníku základní školy. Na které škole nemůže pokračovat ve studiu v dalším školním roce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na gymnáziu."
+      },
+      {
+        "letter": "B",
+        "text": "Na vysoké škole."
+      },
+      {
+        "letter": "C",
+        "text": "Na střední odborné škole."
+      },
+      {
+        "letter": "D",
+        "text": "Na středním odborném učilišti."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "5.1",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 1,
+    "text": "Na kterém obrázku je česká státní vlajka?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "imageUrl": "Small_coat_of_arms_of_the_Czech_Republic.svg",
+        "imageAlt": "Malý státní znak ČR"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "imageUrl": "Flag_of_the_president_of_the_Czech_Republic.svg",
+        "imageAlt": "Vlajka prezidenta ČR"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "imageUrl": "Flag_of_the_Czech_Republic.svg",
+        "imageAlt": "Vlajka České republiky"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "imageUrl": "Coat_of_arms_of_the_Czech_Republic.svg",
+        "imageAlt": "Velký státní znak ČR"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "5.2",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 2,
+    "text": "Který dokument České republiky popisuje základní pravidla pro rozdělení státní moci na zákonodárnou, výkonnou a soudní?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ústava."
+      },
+      {
+        "letter": "B",
+        "text": "Vládní nařízení."
+      },
+      {
+        "letter": "C",
+        "text": "Vyhláška ministerstva vnitra."
+      },
+      {
+        "letter": "D",
+        "text": "Listina základních práv a svobod."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "5.3",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 3,
+    "text": "Která věta o politickém systému České republiky je pravdivá?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Česká republika je monarchie."
+      },
+      {
+        "letter": "B",
+        "text": "Česká republika je totalitní stát."
+      },
+      {
+        "letter": "C",
+        "text": "Česká republika je federativní stát."
+      },
+      {
+        "letter": "D",
+        "text": "Česká republika je demokratický stát."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "5.4",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 4,
+    "text": "Která instituce hlasuje o důvěře vlády?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Senát."
+      },
+      {
+        "letter": "B",
+        "text": "Ústavní soud."
+      },
+      {
+        "letter": "C",
+        "text": "Poslanecká sněmovna."
+      },
+      {
+        "letter": "D",
+        "text": "Nejvyšší kontrolní úřad."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "5.5",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 5,
+    "text": "Jakým způsobem je možné změnit Ústavu České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Občané podají petici."
+      },
+      {
+        "letter": "B",
+        "text": "Parlament schválí ústavní zákon."
+      },
+      {
+        "letter": "C",
+        "text": "Ministerstvo vnitra vydá vyhlášku."
+      },
+      {
+        "letter": "D",
+        "text": "Nejvyšší správní soud vydá rozhodnutí."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "5.6",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 6,
+    "text": "Kterou z těchto vět začíná česká státní hymna?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nad Tatrou se blýská."
+      },
+      {
+        "letter": "B",
+        "text": "Kde domov můj, kde domov můj?"
+      },
+      {
+        "letter": "C",
+        "text": "Ať mír dál zůstává s touto krajinou."
+      },
+      {
+        "letter": "D",
+        "text": "Svatý Václave, vévodo české země."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "5.7",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 7,
+    "text": "Senát Parlamentu České republiky má mnoho úkolů, projednává například návrhy zákonů. Která část Ústavy ČR popisuje tyto úkoly Senátu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Část o moci soudní."
+      },
+      {
+        "letter": "B",
+        "text": "Část o moci výkonné."
+      },
+      {
+        "letter": "C",
+        "text": "Část o moci zákonodárné."
+      },
+      {
+        "letter": "D",
+        "text": "Část o územní samosprávě."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "5.8",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 8,
+    "text": "Které barvy jsou na české státní vlajce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bílá, zelená, modrá."
+      },
+      {
+        "letter": "B",
+        "text": "Bílá, červená, modrá."
+      },
+      {
+        "letter": "C",
+        "text": "Bílá, zelená, červená."
+      },
+      {
+        "letter": "D",
+        "text": "Červená, modrá, zelená."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "5.9",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 9,
+    "text": "Co nepatří mezi státní symboly České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Státní pečeť."
+      },
+      {
+        "letter": "B",
+        "text": "Státní hymna."
+      },
+      {
+        "letter": "C",
+        "text": "České korunovační klenoty."
+      },
+      {
+        "letter": "D",
+        "text": "Vlajka prezidenta republiky."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "5.10",
+    "sectionNumber": 5,
+    "sectionName": "POLITICKÝ SYSTÉM",
+    "questionNumber": 10,
+    "text": "Který státní symbol České republiky je na obrázku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Státní vlajka."
+      },
+      {
+        "letter": "B",
+        "text": "Malý státní znak."
+      },
+      {
+        "letter": "C",
+        "text": "Velký státní znak."
+      },
+      {
+        "letter": "D",
+        "text": "Vlajka prezidenta republiky."
+      }
+    ],
+    "correctAnswer": "B",
+    "imageUrl": "Small_coat_of_arms_of_the_Czech_Republic.svg",
+    "imageAlt": "Malý státní znak České republiky"
+  },
+  {
+    "id": "6.1",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 1,
+    "text": "Která z těchto osob může navrhnout v České republice zákon?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prezident republiky."
+      },
+      {
+        "letter": "B",
+        "text": "Každý poslanec."
+      },
+      {
+        "letter": "C",
+        "text": "Ústavní soudce."
+      },
+      {
+        "letter": "D",
+        "text": "Každý občan."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "6.2",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 2,
+    "text": "Pan Svoboda se chce stát poslancem Poslanecké sněmovny ČR. Kolik let nejdéle může být poslancem v jednom volebním období?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2 roky."
+      },
+      {
+        "letter": "B",
+        "text": "4 roky."
+      },
+      {
+        "letter": "C",
+        "text": "6 roků."
+      },
+      {
+        "letter": "D",
+        "text": "8 roků."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "6.3",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 3,
+    "text": "Kdo se může stát prezidentem České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Občan České republiky, který má právo volit a který dosáhl věku 18 let."
+      },
+      {
+        "letter": "B",
+        "text": "Občan České republiky, který má právo volit a který dosáhl věku 21 let."
+      },
+      {
+        "letter": "C",
+        "text": "Občan České republiky, který má právo volit a který dosáhl věku 26 let."
+      },
+      {
+        "letter": "D",
+        "text": "Občan České republiky, který má právo volit a který dosáhl věku 40 let."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "6.4",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 4,
+    "text": "Právo veta znamená možnost vrátit zákon znovu k projednání Poslanecké sněmovně a nepodepsat jej. Kdo má při schvalování zákonů právo veta?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prezident."
+      },
+      {
+        "letter": "B",
+        "text": "Předseda vlády."
+      },
+      {
+        "letter": "C",
+        "text": "Předseda Senátu."
+      },
+      {
+        "letter": "D",
+        "text": "Předseda Ústavního soudu."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "6.5",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 5,
+    "text": "Které komory tvoří Parlament České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Senát a vláda."
+      },
+      {
+        "letter": "B",
+        "text": "Senát a ministerstva."
+      },
+      {
+        "letter": "C",
+        "text": "Poslanecká sněmovna a vláda."
+      },
+      {
+        "letter": "D",
+        "text": "Poslanecká sněmovna a Senát."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "6.6",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 6,
+    "text": "Senát Parlamentu České republiky dal souhlas ke jmenování ústavního soudce. Kdo následně jmenuje ústavního soudce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prezident."
+      },
+      {
+        "letter": "B",
+        "text": "Předseda vlády."
+      },
+      {
+        "letter": "C",
+        "text": "Ministr spravedlnosti."
+      },
+      {
+        "letter": "D",
+        "text": "Předseda Poslanecké sněmovny."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "6.7",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 7,
+    "text": "Kolik volených zástupců má Senát České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "27."
+      },
+      {
+        "letter": "B",
+        "text": "81."
+      },
+      {
+        "letter": "C",
+        "text": "200."
+      },
+      {
+        "letter": "D",
+        "text": "281."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "6.8",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 8,
+    "text": "Která z těchto činností je úkolem Poslanecké sněmovny Parlamentu České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Poslanecká sněmovna volí prezidenta."
+      },
+      {
+        "letter": "B",
+        "text": "Poslanecká sněmovna jmenuje soudce."
+      },
+      {
+        "letter": "C",
+        "text": "Poslanecká sněmovna uděluje státní vyznamenání."
+      },
+      {
+        "letter": "D",
+        "text": "Poslanecká sněmovna projednává a schvaluje zákony."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "6.9",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 9,
+    "text": "Nouzový stav je stav při vážných krizích, haváriích nebo epidemiích. V nouzovém stavu mohou být omezena některá lidská práva a svobody. Která instituce vyhlašuje v České republice nouzový stav?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Senát."
+      },
+      {
+        "letter": "B",
+        "text": "Vláda."
+      },
+      {
+        "letter": "C",
+        "text": "Prezident."
+      },
+      {
+        "letter": "D",
+        "text": "Poslanecká sněmovna."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "6.10",
+    "sectionNumber": 6,
+    "sectionName": "ZÁKONODÁRNÁ A VÝKONNÁ MOC",
+    "questionNumber": 10,
+    "text": "Tato instituce se také někdy nazývá dolní komora Parlamentu České republiky. Volby do této instituce se konají jednou za 4 roky a volí se v nich 200 zástupců. Jak se jmenuje tato instituce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Senát."
+      },
+      {
+        "letter": "B",
+        "text": "Ústavní soud."
+      },
+      {
+        "letter": "C",
+        "text": "Poslanecká sněmovna."
+      },
+      {
+        "letter": "D",
+        "text": "Rada České národní banky."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "7.1",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 1,
+    "text": "Pan Novotný určuje výši trestu za trestné činy. Kterou funkci vykonává?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Funkci soudce."
+      },
+      {
+        "letter": "B",
+        "text": "Funkci starosty."
+      },
+      {
+        "letter": "C",
+        "text": "Funkci ministra."
+      },
+      {
+        "letter": "D",
+        "text": "Funkci prezidenta."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "7.2",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 2,
+    "text": "Soudní moc vykonávají jménem republiky nezávislé soudy. Který právní dokument popisuje podmínky jmenování soudců v České republice?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ústava."
+      },
+      {
+        "letter": "B",
+        "text": "Trestní řád."
+      },
+      {
+        "letter": "C",
+        "text": "Notářský řád."
+      },
+      {
+        "letter": "D",
+        "text": "Občanský soudní řád."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "7.3",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 3,
+    "text": "Který z těchto soudů rozhoduje o zrušení zákonů, které neodpovídají Ústavě České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vrchní soud."
+      },
+      {
+        "letter": "B",
+        "text": "Ústavní soud."
+      },
+      {
+        "letter": "C",
+        "text": "Krajský soud."
+      },
+      {
+        "letter": "D",
+        "text": "Nejvyšší soud."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "7.4",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 4,
+    "text": "Která instituce má za úkol chránit bezpečnost osob a majetku a veřejný pořádek?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Policie České republiky."
+      },
+      {
+        "letter": "B",
+        "text": "Armáda České republiky."
+      },
+      {
+        "letter": "C",
+        "text": "Parlament České republiky."
+      },
+      {
+        "letter": "D",
+        "text": "Ústavní soud České republiky."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "7.5",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 5,
+    "text": "Pan Novotný pracuje jako advokát. Kterou z těchto činností může dělat?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Určovat výši trestu za trestné činy."
+      },
+      {
+        "letter": "B",
+        "text": "Poskytovat placené právní služby."
+      },
+      {
+        "letter": "C",
+        "text": "Vydávat příkaz k zatčení."
+      },
+      {
+        "letter": "D",
+        "text": "Zahajovat trestní stíhání."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "7.6",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 6,
+    "text": "Na které z těchto institucí se podává trestní oznámení?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na policii."
+      },
+      {
+        "letter": "B",
+        "text": "Na okresním soudě."
+      },
+      {
+        "letter": "C",
+        "text": "Na ministerstvu spravedlnosti."
+      },
+      {
+        "letter": "D",
+        "text": "Na obecním nebo městském úřadě."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "7.7",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 7,
+    "text": "Co je úkolem státního zástupce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vymáhat peníze."
+      },
+      {
+        "letter": "B",
+        "text": "Vyhlašovat rozsudky."
+      },
+      {
+        "letter": "C",
+        "text": "Zabavovat majetek dlužníkům."
+      },
+      {
+        "letter": "D",
+        "text": "Podávat obžalobu proti obviněnému."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "7.8",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 8,
+    "text": "Co je úkolem ombudsmana?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Poskytovat placené právní služby."
+      },
+      {
+        "letter": "B",
+        "text": "Rozhodovat o vině a trestu za trestné činy."
+      },
+      {
+        "letter": "C",
+        "text": "Řešit stížnosti občanů na úřady státní správy."
+      },
+      {
+        "letter": "D",
+        "text": "Zastupovat obžalovanou osobu v soudním řízení."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "7.9",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 9,
+    "text": "Paní Svobodová se chce rozvést. Která instituce rozhodne o jejím rozvodu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Soud."
+      },
+      {
+        "letter": "B",
+        "text": "Městský úřad."
+      },
+      {
+        "letter": "C",
+        "text": "Notářský úřad."
+      },
+      {
+        "letter": "D",
+        "text": "Státní zastupitelství."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "7.10",
+    "sectionNumber": 7,
+    "sectionName": "SOUDNÍ MOC A OCHRANA OBČANŮ",
+    "questionNumber": 10,
+    "text": "Soud odsoudil pana Nováka k 10 letům vězení. Kterým dokumentem vyhlásil soudce vinu a trest?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Žalobou."
+      },
+      {
+        "letter": "B",
+        "text": "Zprávou."
+      },
+      {
+        "letter": "C",
+        "text": "Rozsudkem."
+      },
+      {
+        "letter": "D",
+        "text": "Oznámením."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "8.1",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 1,
+    "text": "Volby v Evropské unii se konají každých pět let na základě všeobecného hlasovacího práva. Do které instituce Evropské unie volí čeští občané své zástupce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Do Rady Evropy."
+      },
+      {
+        "letter": "B",
+        "text": "Do Evropské komise."
+      },
+      {
+        "letter": "C",
+        "text": "Do Evropského parlamentu."
+      },
+      {
+        "letter": "D",
+        "text": "Do Evropského soudu pro lidská práva."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "8.2",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 2,
+    "text": "Jak často se konají řádné volby do obecního zastupitelstva?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jednou za dva roky."
+      },
+      {
+        "letter": "B",
+        "text": "Jednou za tři roky."
+      },
+      {
+        "letter": "C",
+        "text": "Jednou za čtyři roky."
+      },
+      {
+        "letter": "D",
+        "text": "Jednou za pět let."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "8.3",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 3,
+    "text": "Při pravidelných volbách do Senátu se vždy volí třetina senátorů. Jak často se konají volby do Senátu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Každý rok."
+      },
+      {
+        "letter": "B",
+        "text": "Každé 2 roky."
+      },
+      {
+        "letter": "C",
+        "text": "Každé 3 roky."
+      },
+      {
+        "letter": "D",
+        "text": "Každých 5 let."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "8.4",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 4,
+    "text": "Pan Svoboda se stal krajským zastupitelem. Krajští zastupitelé zvolili pana Svobodu nejvyšším představitelem kraje. Kterou funkci teď vykonává pan Svoboda?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Senátor."
+      },
+      {
+        "letter": "B",
+        "text": "Poslanec."
+      },
+      {
+        "letter": "C",
+        "text": "Hejtman."
+      },
+      {
+        "letter": "D",
+        "text": "Primátor."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "8.5",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 5,
+    "text": "V České republice je 27 statutárních měst včetně Prahy. Kdo je nejvyšším představitelem statutárního města?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Senátor."
+      },
+      {
+        "letter": "B",
+        "text": "Hejtman."
+      },
+      {
+        "letter": "C",
+        "text": "Poslanec."
+      },
+      {
+        "letter": "D",
+        "text": "Primátor."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "8.6",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 6,
+    "text": "Koho mohou volit občané do jeho funkce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ministra financí."
+      },
+      {
+        "letter": "B",
+        "text": "Soudce okresního soudu."
+      },
+      {
+        "letter": "C",
+        "text": "Senátora Parlamentu České republiky."
+      },
+      {
+        "letter": "D",
+        "text": "Člena bankovní rady České národní banky."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "8.7",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 7,
+    "text": "Občané hlasovali o tom, jestli jejich obecní úřad postaví v obci novou radnici. Jak se jmenuje toto hlasování občanů?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Obecní volby."
+      },
+      {
+        "letter": "B",
+        "text": "Místní referendum."
+      },
+      {
+        "letter": "C",
+        "text": "Dotazování občanů."
+      },
+      {
+        "letter": "D",
+        "text": "Předvolební průzkum."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "8.8",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 8,
+    "text": "Paní Svobodová kandidovala v senátních volbách a voliči ji zvolili senátorkou už v prvním kole. Kolik procent voličských hlasů získala ve svém volebním obvodě?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "5 procent."
+      },
+      {
+        "letter": "B",
+        "text": "26 procent."
+      },
+      {
+        "letter": "C",
+        "text": "39 procent."
+      },
+      {
+        "letter": "D",
+        "text": "53 procent."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "8.9",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 9,
+    "text": "Za jak dlouho od poslední volby prezidenta je další řádný termín prezidentských voleb?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Za pět let."
+      },
+      {
+        "letter": "B",
+        "text": "Za šest let."
+      },
+      {
+        "letter": "C",
+        "text": "Za sedm let."
+      },
+      {
+        "letter": "D",
+        "text": "Za osm let."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "8.10",
+    "sectionNumber": 8,
+    "sectionName": "VOLBY",
+    "questionNumber": 10,
+    "text": "Od kolika let se může občan České republiky účastnit voleb jako volič?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Od 15 let."
+      },
+      {
+        "letter": "B",
+        "text": "Od 16 let."
+      },
+      {
+        "letter": "C",
+        "text": "Od 18 let."
+      },
+      {
+        "letter": "D",
+        "text": "Od 21 let."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "9.1",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 1,
+    "text": "Která z těchto vět o státním občanství České republiky je pravdivá?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Státní občanství uděluje ministerstvo zahraničních věcí."
+      },
+      {
+        "letter": "B",
+        "text": "Státní občanství získá každý, kdo se v České republice narodí."
+      },
+      {
+        "letter": "C",
+        "text": "Žádost o udělení státního občanství České republiky se musí podat osobně."
+      },
+      {
+        "letter": "D",
+        "text": "O udělení státního občanství se musí rozhodnout do 30 dnů od podání žádosti."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "9.2",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 2,
+    "text": "Který úřad vydává občanům České republiky nový občanský průkaz?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Policie ČR."
+      },
+      {
+        "letter": "B",
+        "text": "Okresní soud."
+      },
+      {
+        "letter": "C",
+        "text": "Ministerstvo spravedlnosti."
+      },
+      {
+        "letter": "D",
+        "text": "Obecní úřad nebo úřad městské části."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "9.3",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 3,
+    "text": "Paní Nováková si pořídila psa, a proto musí splnit určité povinnosti. Co paní Nováková ale nemusí udělat?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zajistit výcvik psa."
+      },
+      {
+        "letter": "B",
+        "text": "Zajistit čip pro psa."
+      },
+      {
+        "letter": "C",
+        "text": "Přihlásit psa na obecním úřadě."
+      },
+      {
+        "letter": "D",
+        "text": "Uhradit škodu, kterou pes způsobil."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "9.4",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 4,
+    "text": "Paní Horáková se rozhodla podat písemné oznámení na souseda, protože často ruší noční klid. Na kterém úřadě může podat paní Horáková toto oznámení o přestupku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na obecním úřadě."
+      },
+      {
+        "letter": "B",
+        "text": "Na Ministerstvu spravedlnosti."
+      },
+      {
+        "letter": "C",
+        "text": "Na Ministerstvu pro místní rozvoj."
+      },
+      {
+        "letter": "D",
+        "text": "Na pobočce Správy sociálního zabezpečení."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "9.5",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 5,
+    "text": "Kterou službu neposkytuje Czech POINT občanům ČR?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Výpis z rejstříku trestů."
+      },
+      {
+        "letter": "B",
+        "text": "Výpis z bankovního účtu."
+      },
+      {
+        "letter": "C",
+        "text": "Výpis z katastru nemovitostí."
+      },
+      {
+        "letter": "D",
+        "text": "Výpis z bodového hodnocení řidiče."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "9.6",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 6,
+    "text": "Pan Novotný je občanem České republiky a ztratil cestovní pas. Kde může požádat o nový pas?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na obecním úřadu."
+      },
+      {
+        "letter": "B",
+        "text": "U okresního soudu."
+      },
+      {
+        "letter": "C",
+        "text": "Na cizinecké policii."
+      },
+      {
+        "letter": "D",
+        "text": "Na ministerstvu zahraničních věcí."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "9.7",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 7,
+    "text": "Rejstřík trestů je informační systém veřejné správy, který obsahuje údaje o odsouzení fyzických a právnických osob. Které ministerstvo spravuje rejstřík trestů?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ministerstvo vnitra."
+      },
+      {
+        "letter": "B",
+        "text": "Ministerstvo financí."
+      },
+      {
+        "letter": "C",
+        "text": "Ministerstvo obrany."
+      },
+      {
+        "letter": "D",
+        "text": "Ministerstvo spravedlnosti."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "9.8",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 8,
+    "text": "Panu Novotnému je 35 let a platnost jeho občanského průkazu právě končí. Proto si žádá o nový průkaz. Jak dlouho bude panu Novotnému platit jeho nový občanský průkaz?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "5 let."
+      },
+      {
+        "letter": "B",
+        "text": "10 let."
+      },
+      {
+        "letter": "C",
+        "text": "20 let."
+      },
+      {
+        "letter": "D",
+        "text": "35 let."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "9.9",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 9,
+    "text": "Paní Svobodová potřebuje svému zaměstnavateli dodat úředně ověřenou kopii svého maturitního vysvědčení. Na kterém místě paní Svobodové kopii maturitního vysvědčení úředně ověří?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na okresním soudu."
+      },
+      {
+        "letter": "B",
+        "text": "Na České školní inspekci."
+      },
+      {
+        "letter": "C",
+        "text": "Na pobočkách Czech POINT."
+      },
+      {
+        "letter": "D",
+        "text": "Na každé pobočce České spořitelny."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "9.10",
+    "sectionNumber": 9,
+    "sectionName": "ZÁKLADNÍ PRÁVNÍ POJMY, SPRÁVNÍ A TRESTNÍ PRÁVO",
+    "questionNumber": 10,
+    "text": "Trestní odpovědnost mají podle zákona také mladistvé osoby. Která z těchto osob patří mezi mladistvé?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jana, které je 10 let."
+      },
+      {
+        "letter": "B",
+        "text": "Martina, které je 14 let."
+      },
+      {
+        "letter": "C",
+        "text": "David, kterému je 17 let."
+      },
+      {
+        "letter": "D",
+        "text": "Zdeněk, kterému je 23 let."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "10.1",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 1,
+    "text": "Paní Svobodové se rozbil nový počítač. Šla jej proto reklamovat. Do kolika dnů musí prodejce vyřídit její reklamaci?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Do 7 dnů."
+      },
+      {
+        "letter": "B",
+        "text": "Do 14 dnů."
+      },
+      {
+        "letter": "C",
+        "text": "Do 30 dnů."
+      },
+      {
+        "letter": "D",
+        "text": "Do 60 dnů."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "10.2",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 2,
+    "text": "Paní Novotná si pronajala byt na dobu neurčitou. Pronajímatel chce, aby zaplatila kauci (peněžní jistotu). Jak vysoká může být kauce podle zákona?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Maximálně ve výši 1 měsíčního nájmu."
+      },
+      {
+        "letter": "B",
+        "text": "Maximálně ve výši 3 měsíčních nájmů."
+      },
+      {
+        "letter": "C",
+        "text": "Maximálně ve výši 6 měsíčních nájmů."
+      },
+      {
+        "letter": "D",
+        "text": "Maximálně ve výši 12 měsíčních nájmů."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "10.3",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 3,
+    "text": "Pan Sokol si koupil v e-shopu novou televizi. Do kolika dnů může podle zákona odstoupit od kupní smlouvy, kterou uzavřel po internetu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Do 14 dnů."
+      },
+      {
+        "letter": "B",
+        "text": "Do 30 dnů."
+      },
+      {
+        "letter": "C",
+        "text": "Do 60 dnů."
+      },
+      {
+        "letter": "D",
+        "text": "Do 90 dnů."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "10.4",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 4,
+    "text": "Který majetek se zapisuje do katastru nemovitostí?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pračka."
+      },
+      {
+        "letter": "B",
+        "text": "Zahrada."
+      },
+      {
+        "letter": "C",
+        "text": "Nábytek."
+      },
+      {
+        "letter": "D",
+        "text": "Motocykl."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "10.5",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 5,
+    "text": "Paní Nováková udělila panu Pokornému plnou moc, aby ji mohl zastupovat při jednání na úřadě. Jak se označuje pan Pokorný v plné moci?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Příkazce."
+      },
+      {
+        "letter": "B",
+        "text": "Poplatník."
+      },
+      {
+        "letter": "C",
+        "text": "Zmocněnec."
+      },
+      {
+        "letter": "D",
+        "text": "Opatrovník."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "10.6",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 6,
+    "text": "Pan Novák chce sepsat svou závěť formou veřejné listiny. U koho si ji může nechat sepsat?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "U notáře."
+      },
+      {
+        "letter": "B",
+        "text": "U soudce."
+      },
+      {
+        "letter": "C",
+        "text": "U advokáta."
+      },
+      {
+        "letter": "D",
+        "text": "U exekutora."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "10.7",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 7,
+    "text": "Pan Novák vymáhá peněžité a nepeněžité pohledávky (dluhy) na základě soudního rozhodnutí. Které povolání vykonává pan Novák?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Povolání notáře."
+      },
+      {
+        "letter": "B",
+        "text": "Povolání soudce."
+      },
+      {
+        "letter": "C",
+        "text": "Povolání advokáta."
+      },
+      {
+        "letter": "D",
+        "text": "Povolání exekutora."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "10.8",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 8,
+    "text": "Paní Nováková koupila pozemek a chce postavit rodinný dům. Potřebuje získat stavební povolení. Který z těchto úřadů jí vydá stavební povolení?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Finanční úřad."
+      },
+      {
+        "letter": "B",
+        "text": "Stavební úřad."
+      },
+      {
+        "letter": "C",
+        "text": "Katastrální úřad."
+      },
+      {
+        "letter": "D",
+        "text": "Živnostenský úřad."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "10.9",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 9,
+    "text": "Pan Novák si půjčil lyže z půjčovny lyží. Kterou smlouvu uzavřel pan Novák s půjčovnou?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kupní smlouvu na vybavení."
+      },
+      {
+        "letter": "B",
+        "text": "Smlouvu o úschově vybavení."
+      },
+      {
+        "letter": "C",
+        "text": "Smlouvu o přepravě vybavení."
+      },
+      {
+        "letter": "D",
+        "text": "Nájemní smlouvu na vybavení."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "10.10",
+    "sectionNumber": 10,
+    "sectionName": "OBČANSKÉ PRÁVO",
+    "questionNumber": 10,
+    "text": "Pan Novák nemůže splácet úvěry bankám. Chce požádat o vyhlášení osobního bankrotu. Která instituce bude rozhodovat o vyhlášení osobního bankrotu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Soud."
+      },
+      {
+        "letter": "B",
+        "text": "Banka."
+      },
+      {
+        "letter": "C",
+        "text": "Úřad práce."
+      },
+      {
+        "letter": "D",
+        "text": "Finanční úřad."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "11.1",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 1,
+    "text": "Kdo může v České republice uzavřít manželství?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Svobodná žena a ženatý muž."
+      },
+      {
+        "letter": "B",
+        "text": "Vdaná žena a rozvedený muž."
+      },
+      {
+        "letter": "C",
+        "text": "Svobodná žena a svobodná žena."
+      },
+      {
+        "letter": "D",
+        "text": "Svobodná žena a rozvedený muž."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "11.2",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 2,
+    "text": "Který z těchto úřadů může ukončit manželství rozvodem?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Obecní úřad."
+      },
+      {
+        "letter": "B",
+        "text": "Okresní soud."
+      },
+      {
+        "letter": "C",
+        "text": "Městská policie."
+      },
+      {
+        "letter": "D",
+        "text": "Ministerstvo vnitra."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "11.3",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 3,
+    "text": "Manželé Svobodovi jsou občané České republiky. Chtějí adoptovat dítě z dětského domova. Která instituce rozhoduje o adopci?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Soud."
+      },
+      {
+        "letter": "B",
+        "text": "Policie."
+      },
+      {
+        "letter": "C",
+        "text": "Obecní úřad."
+      },
+      {
+        "letter": "D",
+        "text": "Ministerstvo vnitra."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "11.4",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 4,
+    "text": "Který z těchto dokumentů vydává matriční úřad?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Oddací list."
+      },
+      {
+        "letter": "B",
+        "text": "Zbrojní pas."
+      },
+      {
+        "letter": "C",
+        "text": "Řidičský průkaz."
+      },
+      {
+        "letter": "D",
+        "text": "Průkaz pojištěnce."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "11.5",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 5,
+    "text": "Která informace není uvedena v úmrtním listě?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Příčina smrti."
+      },
+      {
+        "letter": "B",
+        "text": "Datum a místo úmrtí."
+      },
+      {
+        "letter": "C",
+        "text": "Datum narození zemřelé osoby."
+      },
+      {
+        "letter": "D",
+        "text": "Celé jméno a příjmení zemřelé osoby."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "11.6",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 6,
+    "text": "Paní Horáková ztratila rodný list. Kde musí požádat o vydání nového rodného listu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na policii."
+      },
+      {
+        "letter": "B",
+        "text": "Na matričním úřadě."
+      },
+      {
+        "letter": "C",
+        "text": "Na ministerstvu vnitra."
+      },
+      {
+        "letter": "D",
+        "text": "Na správě sociálního zabezpečení."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "11.7",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 7,
+    "text": "Paní Nováková změnila po rozvodu příjmení. U které z těchto institucí změnu příjmení oznámila?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "U soudu."
+      },
+      {
+        "letter": "B",
+        "text": "Na policii."
+      },
+      {
+        "letter": "C",
+        "text": "Na matričním úřadě."
+      },
+      {
+        "letter": "D",
+        "text": "Na Českém statistickém úřadě."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "11.8",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 8,
+    "text": "Jak se jmenuje dokument, který manželům vydá matriční úřad po uzavření manželství?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rodný list."
+      },
+      {
+        "letter": "B",
+        "text": "Oddací list."
+      },
+      {
+        "letter": "C",
+        "text": "Prohlášení o uzavření manželství."
+      },
+      {
+        "letter": "D",
+        "text": "Doklad o registrovaném partnerství."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "11.9",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 9,
+    "text": "Který matriční doklad získá český občan po narození?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rodný list."
+      },
+      {
+        "letter": "B",
+        "text": "Oddací list."
+      },
+      {
+        "letter": "C",
+        "text": "Cestovní pas."
+      },
+      {
+        "letter": "D",
+        "text": "Občanský průkaz."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "11.10",
+    "sectionNumber": 11,
+    "sectionName": "RODINNÉ PRÁVO",
+    "questionNumber": 10,
+    "text": "Manželé Novákovi se rozvedli. Jak se jmenuje dokument, který dostanou po rozvodu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Žaloba."
+      },
+      {
+        "letter": "B",
+        "text": "Rodný list."
+      },
+      {
+        "letter": "C",
+        "text": "Rozhodnutí."
+      },
+      {
+        "letter": "D",
+        "text": "Rozsudek soudu."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "12.1",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 1,
+    "text": "Která instituce vydává v České republice bankovky a mince?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Česká hospodářská komora."
+      },
+      {
+        "letter": "B",
+        "text": "Český statistický úřad."
+      },
+      {
+        "letter": "C",
+        "text": "Česká národní banka."
+      },
+      {
+        "letter": "D",
+        "text": "Ministerstvo financí."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "12.2",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 2,
+    "text": "Na bankovce je známá česká spisovatelka – autorka knihy Babička. Jak se tato žena jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Svatá Ludmila."
+      },
+      {
+        "letter": "B",
+        "text": "Ema Destinnová."
+      },
+      {
+        "letter": "C",
+        "text": "Božena Němcová."
+      },
+      {
+        "letter": "D",
+        "text": "Anežka Přemyslovna."
+      }
+    ],
+    "correctAnswer": "C",
+    "imageUrl": "Bozena_Nemcova_500_CZK.jpg",
+    "imageAlt": "Bankovka s Boženou Němcovou"
+  },
+  {
+    "id": "12.3",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 3,
+    "text": "Jak se nazývá měna České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Euro."
+      },
+      {
+        "letter": "B",
+        "text": "Haléř."
+      },
+      {
+        "letter": "C",
+        "text": "Koruna česká."
+      },
+      {
+        "letter": "D",
+        "text": "Československá koruna."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "12.4",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 4,
+    "text": "Na české stokorunové bankovce je slavný český král a římský císař. Jak se tento muž jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Karel IV."
+      },
+      {
+        "letter": "B",
+        "text": "Rudolf II."
+      },
+      {
+        "letter": "C",
+        "text": "František Josef I."
+      },
+      {
+        "letter": "D",
+        "text": "Přemysl Otakar II."
+      }
+    ],
+    "correctAnswer": "A",
+    "imageUrl": "100_Czech_koruna_Obverse.jpg",
+    "imageAlt": "Stokorunová bankovka s Karlem IV."
+  },
+  {
+    "id": "12.5",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 5,
+    "text": "Jakou nejvyšší hodnotu má platná česká bankovka?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "500 korun českých."
+      },
+      {
+        "letter": "B",
+        "text": "1 000 korun českých."
+      },
+      {
+        "letter": "C",
+        "text": "2 000 korun českých."
+      },
+      {
+        "letter": "D",
+        "text": "5 000 korun českých."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "12.6",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 6,
+    "text": "Jakou nejnižší hodnotu má platná česká bankovka?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "50 korun českých."
+      },
+      {
+        "letter": "B",
+        "text": "100 korun českých."
+      },
+      {
+        "letter": "C",
+        "text": "200 korun českých."
+      },
+      {
+        "letter": "D",
+        "text": "500 korun českých."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "12.7",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 7,
+    "text": "Paní Svobodová si kupuje nové auto za 650 000 korun. Chce zaplatit v hotovosti, ale prodejce nemůže podle zákona tak velkou peněžní částku přijmout. Jakou maximální částku v hotovosti může prodejce přijmout?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "100 000 Kč."
+      },
+      {
+        "letter": "B",
+        "text": "270 000 Kč."
+      },
+      {
+        "letter": "C",
+        "text": "400 000 Kč."
+      },
+      {
+        "letter": "D",
+        "text": "470 000 Kč."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "12.8",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 8,
+    "text": "Česká národní banka (ČNB) je centrální banka v ČR, která vykonává dohled nad finančním trhem v zemi. Kdo je nejvyšší představitel České národní banky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prezident."
+      },
+      {
+        "letter": "B",
+        "text": "Guvernér."
+      },
+      {
+        "letter": "C",
+        "text": "Předseda."
+      },
+      {
+        "letter": "D",
+        "text": "Ředitel."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "12.9",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 9,
+    "text": "Základní úroková sazba ovlivňuje např. komerční hypoteční úrok nebo úroky k půjčkám. Která instituce stanovuje základní úrokovou sazbu v České republice?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vláda."
+      },
+      {
+        "letter": "B",
+        "text": "Finanční úřad."
+      },
+      {
+        "letter": "C",
+        "text": "Ministerstvo financí."
+      },
+      {
+        "letter": "D",
+        "text": "Česká národní banka."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "12.10",
+    "sectionNumber": 12,
+    "sectionName": "MĚNA A BANKOVNÍ SOUSTAVA",
+    "questionNumber": 10,
+    "text": "Jakou nejvyšší hodnotu má platná česká mince?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "10 korun českých."
+      },
+      {
+        "letter": "B",
+        "text": "20 korun českých."
+      },
+      {
+        "letter": "C",
+        "text": "50 korun českých."
+      },
+      {
+        "letter": "D",
+        "text": "100 korun českých."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "13.1",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 1,
+    "text": "Pan Novotný je podnikatel a má ze zákona povinnost platit daně. Který úřad kontroluje, jak platí daně?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Obecní úřad."
+      },
+      {
+        "letter": "B",
+        "text": "Finanční úřad."
+      },
+      {
+        "letter": "C",
+        "text": "Katastrální úřad."
+      },
+      {
+        "letter": "D",
+        "text": "Živnostenský úřad."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "13.2",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 2,
+    "text": "Celní správa České republiky vybírá cla a spotřební daně a má různé úkoly při ochraně ekonomických zájmů ČR. Pod které ministerstvo Celní správa ČR patří?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ministerstvo vnitra."
+      },
+      {
+        "letter": "B",
+        "text": "Ministerstvo financí."
+      },
+      {
+        "letter": "C",
+        "text": "Ministerstvo spravedlnosti."
+      },
+      {
+        "letter": "D",
+        "text": "Ministerstvo pro místní rozvoj."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "13.3",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 3,
+    "text": "Nepřímé daně jsou součástí ceny výrobků a služeb. Která z těchto daní je nepřímá?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Silniční daň."
+      },
+      {
+        "letter": "B",
+        "text": "Spotřební daň."
+      },
+      {
+        "letter": "C",
+        "text": "Daň z příjmů fyzických osob."
+      },
+      {
+        "letter": "D",
+        "text": "Daň z příjmů právnických osob."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "13.4",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 4,
+    "text": "Paní Svobodová si koupila domů novou televizi. Kterou daň musí zaplatit v ceně televize?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Daň z nemovitých věcí."
+      },
+      {
+        "letter": "B",
+        "text": "Daň z přidané hodnoty."
+      },
+      {
+        "letter": "C",
+        "text": "Spotřební daň."
+      },
+      {
+        "letter": "D",
+        "text": "Daň z příjmů."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "13.5",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 5,
+    "text": "Na kterém úřadu podává podnikatel daňové přiznání?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na obecním úřadu."
+      },
+      {
+        "letter": "B",
+        "text": "Na finančním úřadu."
+      },
+      {
+        "letter": "C",
+        "text": "Na ministerstvu financí."
+      },
+      {
+        "letter": "D",
+        "text": "Na finančním ředitelství."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "13.6",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 6,
+    "text": "Ze kterého z těchto druhů příjmů zaplatí paní Svobodová daň?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Z nemocenské."
+      },
+      {
+        "letter": "B",
+        "text": "Z pronájmu bytu."
+      },
+      {
+        "letter": "C",
+        "text": "Ze sociálních dávek."
+      },
+      {
+        "letter": "D",
+        "text": "Z podpory v nezaměstnanosti."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "13.7",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 7,
+    "text": "V současnosti jsou v České republice dvě sazby daně z přidané hodnoty (DPH). Jaká je jejich procentuální výše?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "10 % a 5 %."
+      },
+      {
+        "letter": "B",
+        "text": "15 % a 10 %."
+      },
+      {
+        "letter": "C",
+        "text": "21 % a 12 %."
+      },
+      {
+        "letter": "D",
+        "text": "26 % a 16 %."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "13.8",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 8,
+    "text": "Co označuje zkratka DPH?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Daň z příjmů."
+      },
+      {
+        "letter": "B",
+        "text": "Hrubý domácí produkt."
+      },
+      {
+        "letter": "C",
+        "text": "Daň z přidané hodnoty."
+      },
+      {
+        "letter": "D",
+        "text": "Dohodu o provedení práce."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "13.9",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 9,
+    "text": "Který druh zboží má v ceně spotřební daň?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tvrdý alkohol."
+      },
+      {
+        "letter": "B",
+        "text": "Elektrická energie."
+      },
+      {
+        "letter": "C",
+        "text": "Sportovní oblečení."
+      },
+      {
+        "letter": "D",
+        "text": "Elektronická zařízení."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "13.10",
+    "sectionNumber": 13,
+    "sectionName": "DAŇOVÁ SOUSTAVA",
+    "questionNumber": 10,
+    "text": "Pan Svoboda má zaplatit dluh 2 500 Kč na dani z příjmů. Kterému úřadu dluh zaplatí?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Úřadu práce."
+      },
+      {
+        "letter": "B",
+        "text": "Celnímu úřadu."
+      },
+      {
+        "letter": "C",
+        "text": "Finančnímu úřadu."
+      },
+      {
+        "letter": "D",
+        "text": "Českému statistickému úřadu."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "14.1",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 1,
+    "text": "Který úřad poskytuje podporu v nezaměstnanosti?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Živnostenský úřad."
+      },
+      {
+        "letter": "B",
+        "text": "Finanční úřad."
+      },
+      {
+        "letter": "C",
+        "text": "Krajský úřad."
+      },
+      {
+        "letter": "D",
+        "text": "Úřad práce."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "14.2",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 2,
+    "text": "Paní Svobodová má nárok na starobní důchod. Která instituce v České republice vydá rozhodnutí o výši jejího důchodu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Úřad práce."
+      },
+      {
+        "letter": "B",
+        "text": "Ministerstvo vnitra."
+      },
+      {
+        "letter": "C",
+        "text": "Ministerstvo zdravotnictví."
+      },
+      {
+        "letter": "D",
+        "text": "Česká správa sociálního zabezpečení."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "14.3",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 3,
+    "text": "Který druh finanční pomoci nevyplácí Česká správa sociálního zabezpečení?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mateřskou."
+      },
+      {
+        "letter": "B",
+        "text": "Nemocenskou."
+      },
+      {
+        "letter": "C",
+        "text": "Starobní důchod."
+      },
+      {
+        "letter": "D",
+        "text": "Podporu v nezaměstnanosti."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "14.4",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 4,
+    "text": "Pan Novák pracuje ve stavební firmě, ale v současné době je nemocný. Nedostává mzdu, ale peněžitou dávku. Jak se tato dávka jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Výživné."
+      },
+      {
+        "letter": "B",
+        "text": "Ošetřovné."
+      },
+      {
+        "letter": "C",
+        "text": "Nemocenská."
+      },
+      {
+        "letter": "D",
+        "text": "Podpora v nezaměstnanosti."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "14.5",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 5,
+    "text": "Paní Novotná pečuje o svou maminku, která je vážně nemocná a není schopná se sama o sebe postarat. O kterou sociální dávku je možné v této situaci požádat?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "O náhradní výživné."
+      },
+      {
+        "letter": "B",
+        "text": "O příspěvek na péči."
+      },
+      {
+        "letter": "C",
+        "text": "O rodičovský příspěvek."
+      },
+      {
+        "letter": "D",
+        "text": "O mimořádnou okamžitou pomoc."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "14.6",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 6,
+    "text": "Který úřad rozhoduje o přiznání dávek v hmotné nouzi?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Úřad práce."
+      },
+      {
+        "letter": "B",
+        "text": "Ministerstvo financí."
+      },
+      {
+        "letter": "C",
+        "text": "Charita České republiky."
+      },
+      {
+        "letter": "D",
+        "text": "Česká správa sociálního zabezpečení."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "14.7",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 7,
+    "text": "Panu Novákovi je 60 let a je nezaměstnaný. Jaká je nejdelší doba, po kterou může dostávat podporu v nezaměstnanosti?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "6 měsíců."
+      },
+      {
+        "letter": "B",
+        "text": "11 měsíců."
+      },
+      {
+        "letter": "C",
+        "text": "18 měsíců."
+      },
+      {
+        "letter": "D",
+        "text": "24 měsíců."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "14.8",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 8,
+    "text": "Paní Nováková pracuje jako učitelka na základní škole a čeká své první dítě. Má 3 týdny před porodem. Kterou z těchto peněžitých dávek může dostat před narozením dítěte?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Porodné."
+      },
+      {
+        "letter": "B",
+        "text": "Ošetřovné."
+      },
+      {
+        "letter": "C",
+        "text": "Mateřskou."
+      },
+      {
+        "letter": "D",
+        "text": "Rodičovskou."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "14.9",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 9,
+    "text": "Manželům Novotným se narodilo dítě. Na jak dlouho si podle zákona může vzít pan Novotný otcovskou dovolenou?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na 5 dní."
+      },
+      {
+        "letter": "B",
+        "text": "Na 14 dní."
+      },
+      {
+        "letter": "C",
+        "text": "Na 31 dní."
+      },
+      {
+        "letter": "D",
+        "text": "Na 60 dní."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "14.10",
+    "sectionNumber": 14,
+    "sectionName": "SOCIÁLNÍ ZABEZPEČENÍ",
+    "questionNumber": 10,
+    "text": "Paní Svobodová ztratila práci. Chce se proto při osobní návštěvě zapsat do evidence úřadu práce. Který doklad nemusí předložit k žádosti o zprostředkování zaměstnání?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rodný list."
+      },
+      {
+        "letter": "B",
+        "text": "Občanský průkaz."
+      },
+      {
+        "letter": "C",
+        "text": "Zápočtový list od bývalého zaměstnavatele."
+      },
+      {
+        "letter": "D",
+        "text": "Potvrzení o ukončení pracovněprávního vztahu."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "15.1",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 1,
+    "text": "Paní Novotná dává výpověď ze svého pracovního poměru. Jaká je délka výpovědní doby podle zákona?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nejvíce 3 dny."
+      },
+      {
+        "letter": "B",
+        "text": "Nejvíce 15 dnů."
+      },
+      {
+        "letter": "C",
+        "text": "Nejméně 1 měsíc."
+      },
+      {
+        "letter": "D",
+        "text": "Nejméně 2 měsíce."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "15.2",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 2,
+    "text": "Výpovědní doba se počítá ode dne doručení výpovědi. Jak dlouhá je výpovědní doba u dohody o pracovní činnosti (DPČ)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "15 dní."
+      },
+      {
+        "letter": "B",
+        "text": "30 dní."
+      },
+      {
+        "letter": "C",
+        "text": "60 dní."
+      },
+      {
+        "letter": "D",
+        "text": "90 dní."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "15.3",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 3,
+    "text": "Který z těchto údajů musí být podle zákona v každém případě v pracovní smlouvě?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pracovní doba."
+      },
+      {
+        "letter": "B",
+        "text": "Počet dnů dovolené."
+      },
+      {
+        "letter": "C",
+        "text": "Místo výkonu práce."
+      },
+      {
+        "letter": "D",
+        "text": "Termín výplaty mzdy."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "15.4",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 4,
+    "text": "Paní Svobodová pracuje od 1. ledna jako zahradnice. S majitelem zahradnictví podepsala dohodu o provedení práce (DPP). Kolik hodin může odpracovat v tomto zahradnictví v jednom kalendářním roce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Maximálně 150 hodin."
+      },
+      {
+        "letter": "B",
+        "text": "Maximálně 200 hodin."
+      },
+      {
+        "letter": "C",
+        "text": "Maximálně 250 hodin."
+      },
+      {
+        "letter": "D",
+        "text": "Maximálně 300 hodin."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "15.5",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 5,
+    "text": "Pan Novák má zaměstnání na plný pracovní úvazek. Kolik hodin týdně musí podle zákona pracovat?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "35 hodin."
+      },
+      {
+        "letter": "B",
+        "text": "40 hodin."
+      },
+      {
+        "letter": "C",
+        "text": "45 hodin."
+      },
+      {
+        "letter": "D",
+        "text": "50 hodin."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "15.6",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 6,
+    "text": "Který zákon nebo zákoník upravuje vztah mezi zaměstnavatelem a zaměstnancem?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Živnostenský zákon."
+      },
+      {
+        "letter": "B",
+        "text": "Trestní zákoník."
+      },
+      {
+        "letter": "C",
+        "text": "Zákon o rodině."
+      },
+      {
+        "letter": "D",
+        "text": "Zákoník práce."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "15.7",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 7,
+    "text": "Pan Novák uzavřel s firmou Stavby, s. r. o., pracovní poměr na dobu určitou. Jakou nejdelší dobu může trvat tento nový pracovní poměr bez prodloužení?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jeden rok."
+      },
+      {
+        "letter": "B",
+        "text": "Dva roky."
+      },
+      {
+        "letter": "C",
+        "text": "Tři roky."
+      },
+      {
+        "letter": "D",
+        "text": "Čtyři roky."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "15.8",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 8,
+    "text": "Paní Nováková má nové zaměstnání. Bude pracovat jako prodavačka. Získala pracovní smlouvu na dobu neurčitou s maximální zkušební dobou. Jaká bude podle zákona délka zkušební doby paní Novákové?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "4 měsíce."
+      },
+      {
+        "letter": "B",
+        "text": "6 měsíců."
+      },
+      {
+        "letter": "C",
+        "text": "9 měsíců."
+      },
+      {
+        "letter": "D",
+        "text": "12 měsíců."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "15.9",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 9,
+    "text": "Co musí obsahovat platná výpověď z pracovního poměru, kterou podává zaměstnanec?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Podpis zaměstnance."
+      },
+      {
+        "letter": "B",
+        "text": "Rodné číslo zaměstnance."
+      },
+      {
+        "letter": "C",
+        "text": "Číslo bankovního účtu zaměstnance."
+      },
+      {
+        "letter": "D",
+        "text": "Číslo občanského průkazu zaměstnance."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "15.10",
+    "sectionNumber": 15,
+    "sectionName": "ZAMĚSTNÁNÍ",
+    "questionNumber": 10,
+    "text": "Paní Novákové je 45 let a pracuje jako recepční v hotelu na směny. Kolik hodin nesmí přesáhnout jedna směna?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "6 hodin."
+      },
+      {
+        "letter": "B",
+        "text": "8 hodin."
+      },
+      {
+        "letter": "C",
+        "text": "10 hodin."
+      },
+      {
+        "letter": "D",
+        "text": "12 hodin."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "16.1",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 1,
+    "text": "Pan Novák je osoba samostatně výdělečně činná (OSVČ). Jak se nazývají jeho příjmy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Příjmy z důchodového připojištění."
+      },
+      {
+        "letter": "B",
+        "text": "Příjmy ze samostatné činnosti."
+      },
+      {
+        "letter": "C",
+        "text": "Příjmy ze závislé činnosti."
+      },
+      {
+        "letter": "D",
+        "text": "Příjmy z pronájmu bytu."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "16.2",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 2,
+    "text": "Která práce není živnost?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Policejní služba."
+      },
+      {
+        "letter": "B",
+        "text": "Kadeřnické služby."
+      },
+      {
+        "letter": "C",
+        "text": "Průvodcovské služby."
+      },
+      {
+        "letter": "D",
+        "text": "Služby soukromého detektiva."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "16.3",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 3,
+    "text": "Podnikatel založil firmu. Ke které z uvedených daní se musel zaregistrovat na finančním úřadě?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "K dani z příjmů."
+      },
+      {
+        "letter": "B",
+        "text": "K dani spotřební."
+      },
+      {
+        "letter": "C",
+        "text": "K dani z nemovitosti."
+      },
+      {
+        "letter": "D",
+        "text": "K dani z přidané hodnoty."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "16.4",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 4,
+    "text": "Které pojištění musí zaměstnavatel v České republice platit za své zaměstnance?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Životní pojištění."
+      },
+      {
+        "letter": "B",
+        "text": "Havarijní pojištění."
+      },
+      {
+        "letter": "C",
+        "text": "Zdravotní pojištění."
+      },
+      {
+        "letter": "D",
+        "text": "Důchodové připojištění."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "16.5",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 5,
+    "text": "Pan Novák je majitelem obchodu s oděvy. Který úřad vydal panu Novákovi povolení k podnikání?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Okresní soud."
+      },
+      {
+        "letter": "B",
+        "text": "Finanční úřad."
+      },
+      {
+        "letter": "C",
+        "text": "Živnostenský úřad."
+      },
+      {
+        "letter": "D",
+        "text": "Ministerstvo práce a sociálních věcí."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "16.6",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 6,
+    "text": "Které informace obsahuje obchodní rejstřík?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Informace o dluzích firmy."
+      },
+      {
+        "letter": "B",
+        "text": "Informace o identifikačním čísle firmy."
+      },
+      {
+        "letter": "C",
+        "text": "Informace o obchodních partnerech firmy."
+      },
+      {
+        "letter": "D",
+        "text": "Informace o ročním obchodním obratu firmy."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "16.7",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 7,
+    "text": "V obchodním rejstříku jsou informace o podnikatelích na území České republiky a je přístupný veřejnosti v online podobě. Která instituce zveřejňuje obchodní rejstřík v České republice?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ministerstvo vnitra ČR."
+      },
+      {
+        "letter": "B",
+        "text": "Ministerstvo financí ČR."
+      },
+      {
+        "letter": "C",
+        "text": "Ministerstvo spravedlnosti ČR."
+      },
+      {
+        "letter": "D",
+        "text": "Ministerstvo průmyslu a obchodu ČR."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "16.8",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 8,
+    "text": "Co nepatří mezi činnosti živnostenského úřadu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Přijímat ohlášení živností."
+      },
+      {
+        "letter": "B",
+        "text": "Přijímat žádosti o koncesi."
+      },
+      {
+        "letter": "C",
+        "text": "Přijímat daňová přiznání podnikatelů."
+      },
+      {
+        "letter": "D",
+        "text": "Vydávat výpisy z živnostenského rejstříku."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "16.9",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 9,
+    "text": "Pan Horák je truhlář a podniká jako osoba samostatně výdělečně činná (OSVČ). Které z těchto pojištění si musí pan Horák platit?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pojištění majetku."
+      },
+      {
+        "letter": "B",
+        "text": "Zdravotní pojištění."
+      },
+      {
+        "letter": "C",
+        "text": "Nemocenské pojištění."
+      },
+      {
+        "letter": "D",
+        "text": "Pojištění odpovědnosti podnikatelů."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "16.10",
+    "sectionNumber": 16,
+    "sectionName": "PODNIKÁNÍ",
+    "questionNumber": 10,
+    "text": "Který z těchto dokumentů potřebuje občan k vykonávání volné živnosti?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rodný list."
+      },
+      {
+        "letter": "B",
+        "text": "Výuční list."
+      },
+      {
+        "letter": "C",
+        "text": "Daňové přiznání."
+      },
+      {
+        "letter": "D",
+        "text": "Výpis ze živnostenského rejstříku."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "17.1",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 1,
+    "text": "Jaké je mezinárodní postavení České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Je závislým územím Evropské unie."
+      },
+      {
+        "letter": "B",
+        "text": "Je součástí státu Rakousko-Uhersko."
+      },
+      {
+        "letter": "C",
+        "text": "Je jednou z částí federace Evropská unie."
+      },
+      {
+        "letter": "D",
+        "text": "Je nezávislou republikou a je členem Evropské unie."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "17.2",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 2,
+    "text": "Česko se nachází v hlavním evropském rozvodí. Odtéká z něj voda řekami do tří moří. Do kterého moře se vlévá řeka Labe?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Do Černého moře."
+      },
+      {
+        "letter": "B",
+        "text": "Do Severního moře."
+      },
+      {
+        "letter": "C",
+        "text": "Do Baltského moře."
+      },
+      {
+        "letter": "D",
+        "text": "Do Jaderského moře."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "17.3",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 3,
+    "text": "Kde pramení řeka Labe?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Orlických horách."
+      },
+      {
+        "letter": "B",
+        "text": "V Krušných horách."
+      },
+      {
+        "letter": "C",
+        "text": "V Krkonoších."
+      },
+      {
+        "letter": "D",
+        "text": "Na Šumavě."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "17.4",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 4,
+    "text": "Praha je hlavním městem České republiky. Které číslo na mapě označuje Prahu?",
+    "imageUrl": "Mapa_CR_Praha.jpg",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "17.5",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 5,
+    "text": "Jaká je přibližně rozloha Česka?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "39 000 km2."
+      },
+      {
+        "letter": "B",
+        "text": "79 000 km2."
+      },
+      {
+        "letter": "C",
+        "text": "119 000 km2."
+      },
+      {
+        "letter": "D",
+        "text": "159 000 km2."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "17.6",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 6,
+    "text": "Která dvojice krajů se nachází ve východních Čechách?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Liberecký kraj a Ústecký kraj."
+      },
+      {
+        "letter": "B",
+        "text": "Ústecký kraj a Karlovarský kraj."
+      },
+      {
+        "letter": "C",
+        "text": "Plzeňský kraj a Karlovarský kraj."
+      },
+      {
+        "letter": "D",
+        "text": "Královéhradecký kraj a Pardubický kraj."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "17.7",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 7,
+    "text": "Ve kterém klimatickém pásu se nachází Česká republika?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V mírném."
+      },
+      {
+        "letter": "B",
+        "text": "V polárním."
+      },
+      {
+        "letter": "C",
+        "text": "V tropickém."
+      },
+      {
+        "letter": "D",
+        "text": "V subtropickém."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "17.8",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 8,
+    "text": "Nejvyšší hora Moravy se nachází v pohoří Hrubý Jeseník. Jak se tato hora jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Plechý."
+      },
+      {
+        "letter": "B",
+        "text": "Praděd."
+      },
+      {
+        "letter": "C",
+        "text": "Sněžka."
+      },
+      {
+        "letter": "D",
+        "text": "Klínovec."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "17.9",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 9,
+    "text": "Které státy sousedí s Českem?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Maďarsko, Německo, Rakousko, Ukrajina."
+      },
+      {
+        "letter": "B",
+        "text": "Maďarsko, Polsko, Rakousko, Slovensko."
+      },
+      {
+        "letter": "C",
+        "text": "Německo, Polsko, Rakousko, Slovensko."
+      },
+      {
+        "letter": "D",
+        "text": "Německo, Polsko, Ukrajina, Slovensko."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "17.10",
+    "sectionNumber": 17,
+    "sectionName": "POLOHA, ROZLOHA A PŘÍRODNÍ POMĚRY",
+    "questionNumber": 10,
+    "text": "Nejvyšší hora v České republice je Sněžka. Jakou má přibližně nadmořskou výšku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "800 metrů nad mořem."
+      },
+      {
+        "letter": "B",
+        "text": "1 600 metrů nad mořem."
+      },
+      {
+        "letter": "C",
+        "text": "2 400 metrů nad mořem."
+      },
+      {
+        "letter": "D",
+        "text": "3 200 metrů nad mořem."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "18.1",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 1,
+    "text": "Kladruby nad Labem a okolní krajina byly v roce 2019 zapsány na seznam světového dědictví UNESCO. Čím je tato obec a její okolí známá?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Chovem koní."
+      },
+      {
+        "letter": "B",
+        "text": "Těžbou stříbra."
+      },
+      {
+        "letter": "C",
+        "text": "Bukovými lesy."
+      },
+      {
+        "letter": "D",
+        "text": "Termálními prameny."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "18.2",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 2,
+    "text": "Který národní park leží na Moravě?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Národní park Podyjí."
+      },
+      {
+        "letter": "B",
+        "text": "Národní park Šumava."
+      },
+      {
+        "letter": "C",
+        "text": "Krkonošský národní park."
+      },
+      {
+        "letter": "D",
+        "text": "Národní park České Švýcarsko."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "18.3",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 3,
+    "text": "V Česku se nachází několik významných center zimních sportů. Které z těchto míst je známé jako centrum zimních sportů?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Most."
+      },
+      {
+        "letter": "B",
+        "text": "Třeboň."
+      },
+      {
+        "letter": "C",
+        "text": "Poděbrady."
+      },
+      {
+        "letter": "D",
+        "text": "Špindlerův Mlýn."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "18.4",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 4,
+    "text": "Jizerskohorské bučiny jsou od roku 2021 na seznamu světového dědictví UNESCO. Které číslo na mapě označuje tuto přírodní památku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      }
+    ],
+    "correctAnswer": "C",
+    "imageUrl": "Mapa_Jizerskohorske_buciny_UNESCO.jpg",
+    "imageAlt": "Mapa s označením Jizerskohorských bučin"
+  },
+  {
+    "id": "18.5",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 5,
+    "text": "Orlík je přehrada, která zadržuje v Česku nejvíce vody. Jak se jmenuje řeka, na které se přehrada Orlík nachází?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Labe."
+      },
+      {
+        "letter": "B",
+        "text": "Vltava."
+      },
+      {
+        "letter": "C",
+        "text": "Sázava."
+      },
+      {
+        "letter": "D",
+        "text": "Morava."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "18.6",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 6,
+    "text": "Památná hora Čechů se nachází v Ústeckém kraji blízko Roudnice nad Labem. Jak se tato hora jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Medvědín."
+      },
+      {
+        "letter": "B",
+        "text": "Klínovec."
+      },
+      {
+        "letter": "C",
+        "text": "Praděd."
+      },
+      {
+        "letter": "D",
+        "text": "Říp."
+      }
+    ],
+    "correctAnswer": "D",
+    "imageUrl": "Ctiněves-a-Říp2017.jpg",
+    "imageAlt": "Hora Říp"
+  },
+  {
+    "id": "18.7",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 7,
+    "text": "V roce 2019 byla na seznam památek UNESCO zapsána hornická kulturní krajina Krušnohoří. Které číslo na mapě označuje tento region?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      }
+    ],
+    "correctAnswer": "B",
+    "imageUrl": "Mapa_Krusnohorska_hornacka_krajina_UNESCO.jpg",
+    "imageAlt": "Mapa s označením Krušnohoří"
+  },
+  {
+    "id": "18.8",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 8,
+    "text": "Které město zapsané na seznamu UNESCO leží v jižních Čechách?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Třebíč."
+      },
+      {
+        "letter": "B",
+        "text": "Kroměříž."
+      },
+      {
+        "letter": "C",
+        "text": "Kutná Hora."
+      },
+      {
+        "letter": "D",
+        "text": "Český Krumlov."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "18.9",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 9,
+    "text": "Jak se jmenuje nejvyšší pohoří na Moravě?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Krušné hory."
+      },
+      {
+        "letter": "B",
+        "text": "Krkonoše."
+      },
+      {
+        "letter": "C",
+        "text": "Jeseníky."
+      },
+      {
+        "letter": "D",
+        "text": "Šumava."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "18.10",
+    "sectionNumber": 18,
+    "sectionName": "PŘÍRODA A KRAJINA",
+    "questionNumber": 10,
+    "text": "Město Žatec a okolní krajina byly v roce 2023 zapsány na seznam UNESCO. Čím je toto město a jeho okolí známé?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pěstuje se tam vinná réva."
+      },
+      {
+        "letter": "B",
+        "text": "Pěstuje se tam chmel."
+      },
+      {
+        "letter": "C",
+        "text": "Chovají se tam kapři."
+      },
+      {
+        "letter": "D",
+        "text": "Chovají se tam koně."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "19.1",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 1,
+    "text": "Ve kterém městě sídlí Západočeská univerzita (ZČU)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Plzni."
+      },
+      {
+        "letter": "B",
+        "text": "V Ústí nad Labem."
+      },
+      {
+        "letter": "C",
+        "text": "V Karlových Varech."
+      },
+      {
+        "letter": "D",
+        "text": "V Českých Budějovicích."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "19.2",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 2,
+    "text": "Jak se jmenuje největší letiště v České republice?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Praha-Kbely."
+      },
+      {
+        "letter": "B",
+        "text": "Brno-Tuřany."
+      },
+      {
+        "letter": "C",
+        "text": "Letiště Karlovy Vary."
+      },
+      {
+        "letter": "D",
+        "text": "Letiště Václava Havla Praha."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "19.3",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 3,
+    "text": "Kateřinu přijali ke studiu na Univerzitě Palackého, která je nejstarší univerzitou na Moravě. Ve městě, kde bude studovat, je také památka UNESCO – sloup Nejsvětější Trojice. Ve kterém městě bude Kateřina studovat?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ve Zlíně."
+      },
+      {
+        "letter": "B",
+        "text": "V Jihlavě."
+      },
+      {
+        "letter": "C",
+        "text": "V Olomouci."
+      },
+      {
+        "letter": "D",
+        "text": "V Pardubicích."
+      }
+    ],
+    "correctAnswer": "C",
+    "imageUrl": "Sloup_Nejsvětější_Trojice,_Olomouc.jpg",
+    "imageAlt": "Sloup Nejsvětější Trojice v Olomouci"
+  },
+  {
+    "id": "19.4",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 4,
+    "text": "Kladno, Příbram a Mladá Boleslav jsou města, která se nacházejí v největším kraji České republiky. Ve kterém kraji se tato města nacházejí?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Ústeckém kraji."
+      },
+      {
+        "letter": "B",
+        "text": "Ve Zlínském kraji."
+      },
+      {
+        "letter": "C",
+        "text": "Ve Středočeském kraji."
+      },
+      {
+        "letter": "D",
+        "text": "V Jihomoravském kraji."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "19.5",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 5,
+    "text": "Které město je centrem Moravskoslezského kraje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Třebíč."
+      },
+      {
+        "letter": "B",
+        "text": "Jihlava."
+      },
+      {
+        "letter": "C",
+        "text": "Ostrava."
+      },
+      {
+        "letter": "D",
+        "text": "Pardubice."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "19.6",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 6,
+    "text": "Ve kterém kraji České republiky se nacházejí města Jindřichův Hradec, Tábor a Písek?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ve Zlínském kraji."
+      },
+      {
+        "letter": "B",
+        "text": "V Jihočeském kraji."
+      },
+      {
+        "letter": "C",
+        "text": "Ve Středočeském kraji."
+      },
+      {
+        "letter": "D",
+        "text": "V Moravskoslezském kraji."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "19.7",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 7,
+    "text": "Perník je tradiční české pečivo s medem a kořením. Které město je slavné díky výrobě perníku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hořice."
+      },
+      {
+        "letter": "B",
+        "text": "Pardubice."
+      },
+      {
+        "letter": "C",
+        "text": "Karlovy Vary."
+      },
+      {
+        "letter": "D",
+        "text": "Mariánské Lázně."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "19.8",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 8,
+    "text": "Univerzita Tomáše Bati se jmenuje po významném podnikateli a zakladateli obuvnické firmy. Ve kterém krajském městě tato univerzita sídlí?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Brně."
+      },
+      {
+        "letter": "B",
+        "text": "Ve Zlíně."
+      },
+      {
+        "letter": "C",
+        "text": "V Ostravě."
+      },
+      {
+        "letter": "D",
+        "text": "V Pardubicích."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "19.9",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 9,
+    "text": "Jihlava je krajské město a leží blízko dálnice D1. Ve kterém kraji je město Jihlava?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Kraji Vysočina."
+      },
+      {
+        "letter": "B",
+        "text": "V Pardubickém kraji."
+      },
+      {
+        "letter": "C",
+        "text": "Ve Středočeském kraji."
+      },
+      {
+        "letter": "D",
+        "text": "V Moravskoslezském kraji."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "19.10",
+    "sectionNumber": 19,
+    "sectionName": "REGIONY A MÍSTA",
+    "questionNumber": 10,
+    "text": "Pan Novák jede autem na služební cestu z Prahy do Děčína. Použije dálnici D8. Kolem kterého krajského města musí do Děčína projet?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kolem Brna."
+      },
+      {
+        "letter": "B",
+        "text": "Kolem Pardubic."
+      },
+      {
+        "letter": "C",
+        "text": "Kolem Ústí nad Labem."
+      },
+      {
+        "letter": "D",
+        "text": "Kolem Českých Budějovic."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "20.1",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 1,
+    "text": "Česko má bohaté zásoby podzemních minerálních vod. Pramen minerální vody Vincentka se nachází v lázních Luhačovice. Které číslo na mapě označuje město Luhačovice?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      }
+    ],
+    "correctAnswer": "C",
+    "imageUrl": "Mapa_Luhacovice.jpg",
+    "imageAlt": "Mapa s označením Luhačovic"
+  },
+  {
+    "id": "20.2",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 2,
+    "text": "Který národní park leží u hranice Česka s Polskem?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Národní park Podyjí."
+      },
+      {
+        "letter": "B",
+        "text": "Šumavský národní park."
+      },
+      {
+        "letter": "C",
+        "text": "Krkonošský národní park."
+      },
+      {
+        "letter": "D",
+        "text": "Národní park České Švýcarsko."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "20.3",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 3,
+    "text": "Třídění odpadu pomáhá chránit životní prostředí. Kterou barvu má kontejner na papír?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bílou."
+      },
+      {
+        "letter": "B",
+        "text": "Žlutou."
+      },
+      {
+        "letter": "C",
+        "text": "Modrou."
+      },
+      {
+        "letter": "D",
+        "text": "Zelenou."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "20.4",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 4,
+    "text": "Černé a Čertovo jezero jsou největšími přírodními jezery v České republice. Nacházejí se na Šumavě. Které číslo na mapě označuje tuto oblast?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      }
+    ],
+    "correctAnswer": "C",
+    "imageUrl": "Mapa_Sumava_Cerne_Certovo_jezero.jpg",
+    "imageAlt": "Mapa s označením Šumavy"
+  },
+  {
+    "id": "20.5",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 5,
+    "text": "Tříděný odpad se ukládá do barevných kontejnerů. Co nepatří do žlutého kontejneru?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Igelitové tašky."
+      },
+      {
+        "letter": "B",
+        "text": "Plastové nádobí."
+      },
+      {
+        "letter": "C",
+        "text": "PET láhve od nápojů."
+      },
+      {
+        "letter": "D",
+        "text": "Skleněné láhve od nápojů."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "20.6",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 6,
+    "text": "Pan Svoboda třídí odpad. Co dává do modrého kontejneru?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sklo."
+      },
+      {
+        "letter": "B",
+        "text": "Papír."
+      },
+      {
+        "letter": "C",
+        "text": "Plasty."
+      },
+      {
+        "letter": "D",
+        "text": "Bioodpad."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "20.7",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 7,
+    "text": "Tříděný odpad se ukládá do barevných kontejnerů. Co patří do hnědého kontejneru?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Plechovky a drobný kovový odpad."
+      },
+      {
+        "letter": "B",
+        "text": "Časopisy, noviny, sešity a papírové obaly."
+      },
+      {
+        "letter": "C",
+        "text": "Zbytky ovoce a zeleniny, odpad rostlinného původu."
+      },
+      {
+        "letter": "D",
+        "text": "Nefunkční elektrické spotřebiče, baterie a akumulátory."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "20.8",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 8,
+    "text": "Jeden ze čtyř národních parků Česka je známý skálami a Pravčickou bránou. Který národní park to je?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Národní park Podyjí."
+      },
+      {
+        "letter": "B",
+        "text": "Národní park Šumava."
+      },
+      {
+        "letter": "C",
+        "text": "Krkonošský národní park."
+      },
+      {
+        "letter": "D",
+        "text": "Národní park České Švýcarsko."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "20.9",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 9,
+    "text": "Tříděný odpad se ukládá do barevných kontejnerů. Co patří do zeleného kontejneru?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Skleněné láhve."
+      },
+      {
+        "letter": "B",
+        "text": "Noviny a časopisy."
+      },
+      {
+        "letter": "C",
+        "text": "PET láhve od nápojů."
+      },
+      {
+        "letter": "D",
+        "text": "Použité elektrické přístroje."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "20.10",
+    "sectionNumber": 20,
+    "sectionName": "OCHRANA ŽIVOTNÍHO PROSTŘEDÍ",
+    "questionNumber": 10,
+    "text": "V Česku se nacházejí čtyři území s nejvyšším stupněm ochrany přírody. Jak se tato území nazývají?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Národní parky."
+      },
+      {
+        "letter": "B",
+        "text": "Přírodní rezervace."
+      },
+      {
+        "letter": "C",
+        "text": "Chráněné krajinné oblasti."
+      },
+      {
+        "letter": "D",
+        "text": "Ochranná pásma vodního zdroje."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "21.1",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 1,
+    "text": "Kolik obyvatel má přibližně Česká republika?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "5,9 milionu."
+      },
+      {
+        "letter": "B",
+        "text": "10,9 milionu."
+      },
+      {
+        "letter": "C",
+        "text": "15,9 milionu."
+      },
+      {
+        "letter": "D",
+        "text": "20,9 milionu."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "21.2",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 2,
+    "text": "Národnostní menšinou je skupina občanů České republiky, kteří se hlásí k jiné než české národnosti. Kdo tvoří největší národnostní menšinu v Česku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Poláci."
+      },
+      {
+        "letter": "B",
+        "text": "Němci."
+      },
+      {
+        "letter": "C",
+        "text": "Slováci."
+      },
+      {
+        "letter": "D",
+        "text": "Vietnamci."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "21.3",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 3,
+    "text": "Kulturní region Haná je významnou zemědělskou oblastí a je známý lidovými zvyky. Které krajské město je centrem kulturního regionu Haná?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ostrava."
+      },
+      {
+        "letter": "B",
+        "text": "Olomouc."
+      },
+      {
+        "letter": "C",
+        "text": "Hradec Králové."
+      },
+      {
+        "letter": "D",
+        "text": "České Budějovice."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "21.4",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 4,
+    "text": "Která televize má podle zákona za úkol produkovat a vysílat vzdělávací programy a programy pro děti?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Česká televize."
+      },
+      {
+        "letter": "B",
+        "text": "Televize Nova."
+      },
+      {
+        "letter": "C",
+        "text": "Televize Prima."
+      },
+      {
+        "letter": "D",
+        "text": "Televize Barrandov."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "21.5",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 5,
+    "text": "Kolik obyvatel má hlavní město Praha?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Přibližně 500 000."
+      },
+      {
+        "letter": "B",
+        "text": "Přibližně 1 400 000."
+      },
+      {
+        "letter": "C",
+        "text": "Přibližně 6 500 000."
+      },
+      {
+        "letter": "D",
+        "text": "Přibližně 10 900 000."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "21.6",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 6,
+    "text": "Toto město bylo a je historickým centrem českého Slezska. Nachází se zde Slezská univerzita, Slezské zemské muzeum i Slezské divadlo. Jak se město jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Brno."
+      },
+      {
+        "letter": "B",
+        "text": "Opava."
+      },
+      {
+        "letter": "C",
+        "text": "Jihlava."
+      },
+      {
+        "letter": "D",
+        "text": "Kroměříž."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "21.7",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 7,
+    "text": "Které náboženství je v Česku nejrozšířenější?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Islám."
+      },
+      {
+        "letter": "B",
+        "text": "Judaismus."
+      },
+      {
+        "letter": "C",
+        "text": "Křesťanství."
+      },
+      {
+        "letter": "D",
+        "text": "Buddhismus."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "21.8",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 8,
+    "text": "Město Plzeň je čtvrtým největším městem České republiky a důležitým ekonomickým centrem. Které číslo na mapě označuje město Plzeň?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "2."
+      },
+      {
+        "letter": "C",
+        "text": "3."
+      },
+      {
+        "letter": "D",
+        "text": "4."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "21.9",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 9,
+    "text": "Které tvrzení odpovídá postavení žen v české společnosti?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ženy nepracují v justici."
+      },
+      {
+        "letter": "B",
+        "text": "Ženy nepracují v armádě."
+      },
+      {
+        "letter": "C",
+        "text": "Ženy mají stejná práva jako muži."
+      },
+      {
+        "letter": "D",
+        "text": "Ženy mají omezené volební právo."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "21.10",
+    "sectionNumber": 21,
+    "sectionName": "SOCIOKULTURNÍ SOUVISLOSTI",
+    "questionNumber": 10,
+    "text": "Brno je největším městem Moravy a také druhým největším městem České republiky. Kolik obyvatel přibližně žije v Brně?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "100 000."
+      },
+      {
+        "letter": "B",
+        "text": "400 000."
+      },
+      {
+        "letter": "C",
+        "text": "720 000."
+      },
+      {
+        "letter": "D",
+        "text": "1 360 000."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "22.1",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 1,
+    "text": "Ve kterém kraji je atomová elektrárna Temelín?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Ústeckém kraji."
+      },
+      {
+        "letter": "B",
+        "text": "V Jihočeském kraji."
+      },
+      {
+        "letter": "C",
+        "text": "V Jihomoravském kraji."
+      },
+      {
+        "letter": "D",
+        "text": "V Moravskoslezském kraji."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "22.2",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 2,
+    "text": "Která z těchto měst spojuje dálnice D1?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prahu a Pardubice."
+      },
+      {
+        "letter": "B",
+        "text": "Prahu a Liberec."
+      },
+      {
+        "letter": "C",
+        "text": "Prahu a Plzeň."
+      },
+      {
+        "letter": "D",
+        "text": "Prahu a Brno."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "22.3",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 3,
+    "text": "Jak se jmenuje slavný český podnik, který vyrábí klavíry?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Amati."
+      },
+      {
+        "letter": "B",
+        "text": "Petrof."
+      },
+      {
+        "letter": "C",
+        "text": "Moser."
+      },
+      {
+        "letter": "D",
+        "text": "Koh-i-noor."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "22.4",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 4,
+    "text": "V Kopřivnici se vyrábí nákladní automobily tradiční značky. Jak se tato značka jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tatra."
+      },
+      {
+        "letter": "B",
+        "text": "Zetor."
+      },
+      {
+        "letter": "C",
+        "text": "Škoda."
+      },
+      {
+        "letter": "D",
+        "text": "Karosa."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "22.5",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 5,
+    "text": "Který pivovar vyrábí pivo značky Pilsner Urquell?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Starobrno."
+      },
+      {
+        "letter": "B",
+        "text": "Staropramen."
+      },
+      {
+        "letter": "C",
+        "text": "Plzeňský Prazdroj."
+      },
+      {
+        "letter": "D",
+        "text": "Budějovický Budvar."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "22.6",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 6,
+    "text": "Značka Kofola patří od 60. let 20. století mezi tradiční české značky. Které výrobky mají označení Kofola?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mléčné výrobky."
+      },
+      {
+        "letter": "B",
+        "text": "Sportovní oblečení."
+      },
+      {
+        "letter": "C",
+        "text": "Alkoholické nápoje."
+      },
+      {
+        "letter": "D",
+        "text": "Nealkoholické nápoje."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "22.7",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 7,
+    "text": "Z Prahy do Ostravy vede nejdůležitější železniční trať v Česku. Kterým z těchto měst tato železniční trať prochází?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Brno."
+      },
+      {
+        "letter": "B",
+        "text": "Jihlava."
+      },
+      {
+        "letter": "C",
+        "text": "Liberec."
+      },
+      {
+        "letter": "D",
+        "text": "Olomouc."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "22.8",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 8,
+    "text": "Ve kterém městě se vyrábí pivo značky Budvar?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Plzni"
+      },
+      {
+        "letter": "B",
+        "text": "V Praze."
+      },
+      {
+        "letter": "C",
+        "text": "Ve Velkých Popovicích."
+      },
+      {
+        "letter": "D",
+        "text": "V Českých Budějovicích."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "22.9",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 9,
+    "text": "Která značka osobních automobilů se vyrábí ve městě Mladá Boleslav?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hyundai."
+      },
+      {
+        "letter": "B",
+        "text": "Peugeot."
+      },
+      {
+        "letter": "C",
+        "text": "Škoda."
+      },
+      {
+        "letter": "D",
+        "text": "Tatra."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "22.10",
+    "sectionNumber": 22,
+    "sectionName": "SOCIOEKONOMICKÉ SOUVISLOSTI",
+    "questionNumber": 10,
+    "text": "Tradiční českou značkou je Becherovka. Ve kterém městě se tento alkoholický nápoj vyrábí?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Plzni."
+      },
+      {
+        "letter": "B",
+        "text": "V Praze."
+      },
+      {
+        "letter": "C",
+        "text": "V Karlových Varech."
+      },
+      {
+        "letter": "D",
+        "text": "V Českých Budějovicích."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "23.1",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 1,
+    "text": "Jak se jmenuje mezinárodní vojenská organizace, která zajišťuje bezpečnost České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "NATO."
+      },
+      {
+        "letter": "B",
+        "text": "CEFTA."
+      },
+      {
+        "letter": "C",
+        "text": "Evropská unie."
+      },
+      {
+        "letter": "D",
+        "text": "Varšavská smlouva."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "23.2",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 2,
+    "text": "Česká republika je členem Evropské unie. Které z těchto měst je sídlem hlavních orgánů Evropské unie?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Řím."
+      },
+      {
+        "letter": "B",
+        "text": "Paříž."
+      },
+      {
+        "letter": "C",
+        "text": "Brusel."
+      },
+      {
+        "letter": "D",
+        "text": "Londýn."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "23.3",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 3,
+    "text": "V roce 2004 vstoupily do Evropské unie státy tzv. Visegrádské skupiny. Které čtyři státy tuto skupinu tvoří?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Česko, Polsko, Rakousko, Slovinsko."
+      },
+      {
+        "letter": "B",
+        "text": "Česko, Slovensko, Polsko, Německo."
+      },
+      {
+        "letter": "C",
+        "text": "Česko, Slovensko, Maďarsko, Polsko."
+      },
+      {
+        "letter": "D",
+        "text": "Česko, Slovensko, Maďarsko, Rakousko."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "23.4",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 4,
+    "text": "Které město je sídlem Evropského soudu pro lidská práva?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Haag."
+      },
+      {
+        "letter": "B",
+        "text": "Brusel."
+      },
+      {
+        "letter": "C",
+        "text": "Štrasburk."
+      },
+      {
+        "letter": "D",
+        "text": "Lucemburk."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "23.5",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 5,
+    "text": "V roce 2007 Česko vstoupilo do schengenského prostoru. Do které z těchto zemí může český občan cestovat bez kontroly na hranicích?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Do Turecka."
+      },
+      {
+        "letter": "B",
+        "text": "Do Německa."
+      },
+      {
+        "letter": "C",
+        "text": "Do Velké Británie."
+      },
+      {
+        "letter": "D",
+        "text": "Do Spojených států amerických."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "23.6",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 6,
+    "text": "Česká republika je od 12. března 1999 členem mezinárodní organizace. Vlajku této organizace můžete vidět na obrázku. Jak se tato organizace jmenuje?",
+    "imageUrl": "Flag_of_NATO.svg",
+    "imageAlt": "Vlajka NATO",
+    "options": [
+      {
+        "letter": "A",
+        "text": "EU – Evropská unie."
+      },
+      {
+        "letter": "B",
+        "text": "OSN – Organizace spojených národů."
+      },
+      {
+        "letter": "C",
+        "text": "NATO – Organizace severoatlantické smlouvy."
+      },
+      {
+        "letter": "D",
+        "text": "OECD – Organizace pro ekonomickou spolupráci a rozvoj."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "23.7",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 7,
+    "text": "Jaké právo mají v Evropské unii její občané, a tedy i občané České republiky?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Právo volit předsedu Evropské komise."
+      },
+      {
+        "letter": "B",
+        "text": "Právo volit poslance Evropského parlamentu."
+      },
+      {
+        "letter": "C",
+        "text": "Právo volit eurokomisaře za jednotlivé členské státy."
+      },
+      {
+        "letter": "D",
+        "text": "Právo hlasovat o přijímání nových států do Evropské unie."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "23.8",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 8,
+    "text": "Evropská komise je výkonný orgán Evropské unie a řídí její politiku. Kolik zástupců má Česko v Evropské komisi?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1."
+      },
+      {
+        "letter": "B",
+        "text": "21."
+      },
+      {
+        "letter": "C",
+        "text": "81."
+      },
+      {
+        "letter": "D",
+        "text": "200."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "23.9",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 9,
+    "text": "Česká republika je členem NATO. Které město je sídlem této organizace?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Paříž."
+      },
+      {
+        "letter": "B",
+        "text": "Brusel."
+      },
+      {
+        "letter": "C",
+        "text": "Ženeva."
+      },
+      {
+        "letter": "D",
+        "text": "Štrasburk."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "23.10",
+    "sectionNumber": 23,
+    "sectionName": "MEZINÁRODNÍ SOUVISLOSTI",
+    "questionNumber": 10,
+    "text": "Vlajka na obrázku má dvanáct zlatých hvězd na modrém poli. Která mezinárodní organizace má tuto vlajku?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "EU – Evropská unie."
+      },
+      {
+        "letter": "B",
+        "text": "OSN – Organizace spojených národů."
+      },
+      {
+        "letter": "C",
+        "text": "NATO – Organizace severoatlantické smlouvy."
+      },
+      {
+        "letter": "D",
+        "text": "OECD – Organizace pro ekonomickou spolupráci a rozvoj."
+      }
+    ],
+    "correctAnswer": "A",
+    "imageUrl": "Flag_of_Europe.svg",
+    "imageAlt": "Vlajka Evropské unie"
+  },
+  {
+    "id": "24.1",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 1,
+    "text": "Kdo podle pověsti vystoupil na horu Říp?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Praotec Čech."
+      },
+      {
+        "letter": "B",
+        "text": "Přemysl Oráč."
+      },
+      {
+        "letter": "C",
+        "text": "Kněžna Libuše."
+      },
+      {
+        "letter": "D",
+        "text": "Vladyka Horymír."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "24.2",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 2,
+    "text": "Která bitva ukončila v roce 1434 husitské náboženské války?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bitva u Lipan."
+      },
+      {
+        "letter": "B",
+        "text": "Bitva u Slavkova."
+      },
+      {
+        "letter": "C",
+        "text": "Bitva na Bílé hoře."
+      },
+      {
+        "letter": "D",
+        "text": "Bitva na Moravském poli."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "24.3",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 3,
+    "text": "Jan Žižka má jezdeckou sochu na vrchu Vítkově v Praze. Kdo byl Jan Žižka?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Český král."
+      },
+      {
+        "letter": "B",
+        "text": "Katolický kněz."
+      },
+      {
+        "letter": "C",
+        "text": "Husitský bojovník."
+      },
+      {
+        "letter": "D",
+        "text": "Renesanční umělec."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "24.4",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 4,
+    "text": "Jak se podle pověstí jmenuje kněžna, která předpověděla slávu Prahy?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Šárka."
+      },
+      {
+        "letter": "B",
+        "text": "Vlasta."
+      },
+      {
+        "letter": "C",
+        "text": "Libuše."
+      },
+      {
+        "letter": "D",
+        "text": "Ludmila."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "24.5",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 5,
+    "text": "Na začátku července se slaví v České republice dva státní svátky. 5. červenec připomíná příchod bratrů Cyrila a Metoděje na Velkou Moravu. Proč na Moravu Cyril a Metoděj přišli?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Založit vinice."
+      },
+      {
+        "letter": "B",
+        "text": "Šířit křesťanství."
+      },
+      {
+        "letter": "C",
+        "text": "Založit český stát."
+      },
+      {
+        "letter": "D",
+        "text": "Sjednotit Čechy a Moravu."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "24.6",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 6,
+    "text": "Jak se jmenoval první český rod knížat a králů, ke kterému patřil i svatý Václav?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jagellonci."
+      },
+      {
+        "letter": "B",
+        "text": "Přemyslovci."
+      },
+      {
+        "letter": "C",
+        "text": "Habsburkové."
+      },
+      {
+        "letter": "D",
+        "text": "Lucemburkové."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "24.7",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 7,
+    "text": "Kalich na obrázku se stal symbolem jednoho významného období v české historii. Toto období připomínají pomníky v českých městech, knihy, filmy, a dokonce jeden státní svátek. Jak se toto období nazývá?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pražské jaro."
+      },
+      {
+        "letter": "B",
+        "text": "Husitská revoluce."
+      },
+      {
+        "letter": "C",
+        "text": "Sametová revoluce."
+      },
+      {
+        "letter": "D",
+        "text": "Stavovské povstání."
+      }
+    ],
+    "correctAnswer": "B",
+    "imageUrl": "Husitská_korouhev.svg",
+    "imageAlt": "Husitský kalich"
+  },
+  {
+    "id": "24.8",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 8,
+    "text": "Ze kterého rodu byl slavný český král a římský císař Karel IV.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Z rodu Jagellonců."
+      },
+      {
+        "letter": "B",
+        "text": "Z rodu Habsburků."
+      },
+      {
+        "letter": "C",
+        "text": "Z rodu Lucemburků."
+      },
+      {
+        "letter": "D",
+        "text": "Z rodu Přemyslovců."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "24.9",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 9,
+    "text": "Kdo založil první českou univerzitu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Karel IV."
+      },
+      {
+        "letter": "B",
+        "text": "Jiří z Poděbrad."
+      },
+      {
+        "letter": "C",
+        "text": "Přemysl Otakar II."
+      },
+      {
+        "letter": "D",
+        "text": "Vladislav Jagellonský."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "24.10",
+    "sectionNumber": 24,
+    "sectionName": "STŘEDOVĚK",
+    "questionNumber": 10,
+    "text": "Dcera krále Přemysla Otakara I. založila ve 13. století v Praze klášter a pečovala o nemocné a chudé. V roce 1989 ji papež prohlásil za svatou. Jak se tato žena jmenovala?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Alžběta."
+      },
+      {
+        "letter": "B",
+        "text": "Anežka."
+      },
+      {
+        "letter": "C",
+        "text": "Hedvika."
+      },
+      {
+        "letter": "D",
+        "text": "Markéta."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "25.1",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 1,
+    "text": "Na přelomu 16. a 17. století se Praha stala kulturním centrem Evropy. Jak se jmenoval panovník, který tehdy v Čechách vládl?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rudolf II."
+      },
+      {
+        "letter": "B",
+        "text": "Václav II."
+      },
+      {
+        "letter": "C",
+        "text": "František II."
+      },
+      {
+        "letter": "D",
+        "text": "Ferdinand II."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "25.2",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 2,
+    "text": "Který rod začal vládnout Českému království v roce 1526 a vládl až do roku 1918?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jagellonci."
+      },
+      {
+        "letter": "B",
+        "text": "Přemyslovci."
+      },
+      {
+        "letter": "C",
+        "text": "Habsburkové."
+      },
+      {
+        "letter": "D",
+        "text": "Lucemburkové."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "25.3",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 3,
+    "text": "V roce 1618 se čeští nekatoličtí šlechtici postavili proti císaři. Tato událost začala válku, která se rozšířila téměř po celé Evropě. Jak se tato válka jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zimní válka."
+      },
+      {
+        "letter": "B",
+        "text": "Třicetiletá válka."
+      },
+      {
+        "letter": "C",
+        "text": "Prusko-rakouská válka."
+      },
+      {
+        "letter": "D",
+        "text": "Válka o rakouské dědictví."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "25.4",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 4,
+    "text": "Ve kterém městě se odehrává pověst o Golemovi, kterého stvořil rabi Löw?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Plzni."
+      },
+      {
+        "letter": "B",
+        "text": "V Praze."
+      },
+      {
+        "letter": "C",
+        "text": "V Jihlavě."
+      },
+      {
+        "letter": "D",
+        "text": "V Ostravě."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "25.5",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 5,
+    "text": "V České republice se 28. března slaví Den učitelů a připomíná se narození „učitele národů“. Koho Češi považují za „učitele národů“?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jana Amose Komenského."
+      },
+      {
+        "letter": "B",
+        "text": "Karla Havlíčka Borovského."
+      },
+      {
+        "letter": "C",
+        "text": "Tomáše Garrigua Masaryka."
+      },
+      {
+        "letter": "D",
+        "text": "Františka Ladislava Čelakovského."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "25.6",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 6,
+    "text": "V roce 1805 došlo na Moravě k bitvě u Slavkova. Kdo tuto bitvu vyhrál?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Císař Alexandr I."
+      },
+      {
+        "letter": "B",
+        "text": "Císař Napoleon I."
+      },
+      {
+        "letter": "C",
+        "text": "Generál Kutuzov."
+      },
+      {
+        "letter": "D",
+        "text": "Generál Wellington."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "25.7",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 7,
+    "text": "České země byly od roku 1867 součástí Rakouska-Uherska. Kdy přestalo existovat Rakousko-Uhersko?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V roce 1914."
+      },
+      {
+        "letter": "B",
+        "text": "V roce 1918."
+      },
+      {
+        "letter": "C",
+        "text": "V roce 1938."
+      },
+      {
+        "letter": "D",
+        "text": "V roce 1948."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "25.8",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 8,
+    "text": "Jak se říká rozvoji české kultury v 19. století?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jaro národů."
+      },
+      {
+        "letter": "B",
+        "text": "Normalizace."
+      },
+      {
+        "letter": "C",
+        "text": "Národní obrození."
+      },
+      {
+        "letter": "D",
+        "text": "Sametová revoluce."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "25.9",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 9,
+    "text": "V roce 1618 se protestanté v českých zemích vzbouřili proti císaři, ale o dva roky později byli poraženi. Ve které bitvě císař porazil tyto protestanty?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "U Lipan."
+      },
+      {
+        "letter": "B",
+        "text": "Na Vítkově."
+      },
+      {
+        "letter": "C",
+        "text": "Na Bílé hoře."
+      },
+      {
+        "letter": "D",
+        "text": "Na Moravském poli."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "25.10",
+    "sectionNumber": 25,
+    "sectionName": "NOVOVĚK",
+    "questionNumber": 10,
+    "text": "Tato panovnice byla z rodu Habsburků a žila v 18. století. Byla jedinou ženou, která vládla na území Česka. Pomník v Praze na Hradčanech (na obrázku) připomíná 300 let od jejího narození. Kterou českou panovnici představuje tato socha?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Císařovnu Marii Terezii."
+      },
+      {
+        "letter": "B",
+        "text": "Císařovnu Alžbětu (Sisi)."
+      },
+      {
+        "letter": "C",
+        "text": "Královnu Elišku Přemyslovnu."
+      },
+      {
+        "letter": "D",
+        "text": "Královnu Alžbětu Pomořanskou."
+      }
+    ],
+    "correctAnswer": "A",
+    "imageUrl": "Pomník_MarieTerezie,_Praha-Hradčany.jpg",
+    "imageAlt": "Pomník Marie Terezie v Praze"
+  },
+  {
+    "id": "26.1",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 1,
+    "text": "Co pro Československo znamenala mnichovská dohoda, kterou podepsalo Německo a další tři státy v září 1938?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Začátek války."
+      },
+      {
+        "letter": "B",
+        "text": "Obsazení Prahy."
+      },
+      {
+        "letter": "C",
+        "text": "Ztrátu pohraničí."
+      },
+      {
+        "letter": "D",
+        "text": "Ztrátu Slovenska."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "26.2",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 2,
+    "text": "Jak se jmenovala jedna z českých obcí, kterou Němci po atentátu na Reinharda Heydricha v roce 1942 zcela zničili?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Lidice."
+      },
+      {
+        "letter": "B",
+        "text": "Stadice."
+      },
+      {
+        "letter": "C",
+        "text": "Hrusice."
+      },
+      {
+        "letter": "D",
+        "text": "Věstonice."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "26.3",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 3,
+    "text": "Jak se jmenoval československý prezident, který žil za 2. světové války ve Velké Británii?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Edvard Beneš."
+      },
+      {
+        "letter": "B",
+        "text": "Klement Gottwald."
+      },
+      {
+        "letter": "C",
+        "text": "Antonín Zápotocký."
+      },
+      {
+        "letter": "D",
+        "text": "Tomáš Garrigue Masaryk."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "26.4",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 4,
+    "text": "Které velké armády osvobodily území Československa v roce 1945?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Americká a anglická."
+      },
+      {
+        "letter": "B",
+        "text": "Americká a sovětská."
+      },
+      {
+        "letter": "C",
+        "text": "Americká a kanadská."
+      },
+      {
+        "letter": "D",
+        "text": "Americká a francouzská."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "26.5",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 5,
+    "text": "Co se stalo 17. listopadu 1939 na českém území?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nacisté zavřeli vysoké školy."
+      },
+      {
+        "letter": "B",
+        "text": "Nacisté zcela zničili obec Lidice."
+      },
+      {
+        "letter": "C",
+        "text": "Armády zemí Varšavské smlouvy obsadily Československo."
+      },
+      {
+        "letter": "D",
+        "text": "Americká a sovětská armáda osvobodily území Československa."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "26.6",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 6,
+    "text": "Tomáš Garrigue Masaryk byl první prezident Československa a zakladatel moderního československého státu. Na kterém z těchto obrázků je Tomáš Garrigue Masaryk?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "imageUrl": "Petr_Pavel.jpg",
+        "imageAlt": "Petr Pavel"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "imageUrl": "Vaclav_Havel_cropped.jpg",
+        "imageAlt": "Václav Havel"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "imageUrl": "Edvard_Beneš.jpg",
+        "imageAlt": "Edvard Beneš"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "imageUrl": "MasarykFotoPrvniPoselstviTGM.jpg",
+        "imageAlt": "Tomáš Garrigue Masaryk"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "26.7",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 7,
+    "text": "Jak se jmenoval zastupující říšský protektor, na kterého spáchali Gabčík a Kubiš v roce 1942 v Praze atentát?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "K. H. Frank."
+      },
+      {
+        "letter": "B",
+        "text": "Joseph Goebbels."
+      },
+      {
+        "letter": "C",
+        "text": "Hermann Göring."
+      },
+      {
+        "letter": "D",
+        "text": "Reinhard Heydrich."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "26.8",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 8,
+    "text": "Který den si Česká republika připomíná konec druhé světové války – Den vítězství?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "6. července."
+      },
+      {
+        "letter": "B",
+        "text": "8. května."
+      },
+      {
+        "letter": "C",
+        "text": "28. října."
+      },
+      {
+        "letter": "D",
+        "text": "28. září."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "26.9",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 9,
+    "text": "Která historická událost předcházela vzniku Československa v roce 1918?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sametová revoluce."
+      },
+      {
+        "letter": "B",
+        "text": "První světová válka."
+      },
+      {
+        "letter": "C",
+        "text": "Druhá světová válka."
+      },
+      {
+        "letter": "D",
+        "text": "Světová hospodářská krize."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "26.10",
+    "sectionNumber": 26,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA DO ROKU 1948",
+    "questionNumber": 10,
+    "text": "Kdy vznikl samostatný československý stát?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "29. září 1938."
+      },
+      {
+        "letter": "B",
+        "text": "1. ledna 1993."
+      },
+      {
+        "letter": "C",
+        "text": "28. října 1918."
+      },
+      {
+        "letter": "D",
+        "text": "8. května 1945."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "27.1",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 1,
+    "text": "Kdo se stal československým prezidentem v roce 1948 poté, co komunistická strana převzala moc ve státě?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Edvard Beneš."
+      },
+      {
+        "letter": "B",
+        "text": "Klement Gottwald."
+      },
+      {
+        "letter": "C",
+        "text": "Antonín Zápotocký."
+      },
+      {
+        "letter": "D",
+        "text": "Tomáš Garrigue Masaryk."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "27.2",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 2,
+    "text": "Jak se jmenoval student, který se upálil v lednu 1969 v Praze na Václavském náměstí?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jan Palach."
+      },
+      {
+        "letter": "B",
+        "text": "Jan Opletal."
+      },
+      {
+        "letter": "C",
+        "text": "Martin Šmíd."
+      },
+      {
+        "letter": "D",
+        "text": "Václav Sedláček."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "27.3",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 3,
+    "text": "Která politická strana vládla v Československu od roku 1948 do listopadu roku 1989?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Komunistická strana Československa."
+      },
+      {
+        "letter": "B",
+        "text": "Československá strana socialistická."
+      },
+      {
+        "letter": "C",
+        "text": "Československá strana lidová."
+      },
+      {
+        "letter": "D",
+        "text": "Agrární strana."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "27.4",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 4,
+    "text": "Jak se jmenoval dokument, kterým někteří občané v 70. letech 20. století protestovali proti komunistickému režimu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Poučení z krizového vývoje."
+      },
+      {
+        "letter": "B",
+        "text": "Několik vět."
+      },
+      {
+        "letter": "C",
+        "text": "2 000 slov."
+      },
+      {
+        "letter": "D",
+        "text": "Charta 77."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "27.5",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 5,
+    "text": "Která významná událost české historie se stala 21. srpna 1968?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Začala okupace Československa vojsky Varšavské smlouvy."
+      },
+      {
+        "letter": "B",
+        "text": "Z Československa se stala federativní republika."
+      },
+      {
+        "letter": "C",
+        "text": "Na protest proti okupaci se upálil Jan Palach."
+      },
+      {
+        "letter": "D",
+        "text": "Vznikl samostatný český a slovenský stát."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "27.6",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 6,
+    "text": "Kdy začala v Československu tzv. sametová revoluce?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "8. května 1945."
+      },
+      {
+        "letter": "B",
+        "text": "25. února 1948."
+      },
+      {
+        "letter": "C",
+        "text": "17. listopadu 1939."
+      },
+      {
+        "letter": "D",
+        "text": "17. listopadu 1989."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "27.7",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 7,
+    "text": "Rok 1989 byl rokem velkých společenských změn. Václav Havel byl ještě v prvních měsících roku 1989 z politických důvodů ve vězení, ale na konci roku 1989 byl zvolen do významné politické funkce. Která funkce to byla?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Předseda vlády."
+      },
+      {
+        "letter": "B",
+        "text": "Prezident republiky."
+      },
+      {
+        "letter": "C",
+        "text": "Ministr zahraničních věcí."
+      },
+      {
+        "letter": "D",
+        "text": "Předseda Národního shromáždění."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "27.8",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 8,
+    "text": "Jaký program měla protikomunistická občanská iniciativa Charta 77?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ozbrojený boj."
+      },
+      {
+        "letter": "B",
+        "text": "Uměleckou tvorbu."
+      },
+      {
+        "letter": "C",
+        "text": "Ochranu lidských práv."
+      },
+      {
+        "letter": "D",
+        "text": "Vydávání české literatury v zahraničí."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "27.9",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 9,
+    "text": "V letech 1949 až 1961 někteří odpůrci komunistického režimu pracovali jako političtí vězni v uranových dolech. U kterého z těchto měst byly uranové doly?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Břeclav."
+      },
+      {
+        "letter": "B",
+        "text": "Znojmo."
+      },
+      {
+        "letter": "C",
+        "text": "Příbram."
+      },
+      {
+        "letter": "D",
+        "text": "Litoměřice."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "27.10",
+    "sectionNumber": 27,
+    "sectionName": "DĚJINY ČESKOSLOVENSKA OD ROKU 1948 DO ROKU 1989",
+    "questionNumber": 10,
+    "text": "Jak se jmenovala česká politička odsouzená v roce 1950 v politickém procesu k trestu smrti?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Marie Majerová."
+      },
+      {
+        "letter": "B",
+        "text": "Zdena Mašínová."
+      },
+      {
+        "letter": "C",
+        "text": "Milada Horáková."
+      },
+      {
+        "letter": "D",
+        "text": "Marta Gottwaldová."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "28.1",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 1,
+    "text": "Kdy vznikla samostatná Česká republika?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "1. ledna 1993."
+      },
+      {
+        "letter": "B",
+        "text": "28. října 1918."
+      },
+      {
+        "letter": "C",
+        "text": "8. května 1945."
+      },
+      {
+        "letter": "D",
+        "text": "17. listopadu 1989."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "28.2",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 2,
+    "text": "Česká republika je od roku 1999 členem NATO. K čemu tato organizace slouží?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "K vědecké spolupráci."
+      },
+      {
+        "letter": "B",
+        "text": "K vojenské spolupráci."
+      },
+      {
+        "letter": "C",
+        "text": "K rozvojové spolupráci."
+      },
+      {
+        "letter": "D",
+        "text": "K ekonomické spolupráci."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "28.3",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 3,
+    "text": "Kdy Česká republika vstoupila do Evropské unie?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V roce 1989."
+      },
+      {
+        "letter": "B",
+        "text": "V roce 1993."
+      },
+      {
+        "letter": "C",
+        "text": "V roce 1999."
+      },
+      {
+        "letter": "D",
+        "text": "V roce 2004."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "28.4",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 4,
+    "text": "Které dva státy vznikly po rozpadu Československa v roce 1993?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Čechy a Morava."
+      },
+      {
+        "letter": "B",
+        "text": "Česká republika a Slovenská republika."
+      },
+      {
+        "letter": "C",
+        "text": "Protektorát Čechy a Morava a Slovenská republika."
+      },
+      {
+        "letter": "D",
+        "text": "Česká socialistická republika a Slovenská socialistická republika."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "28.5",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 5,
+    "text": "Památník na obrázku připomíná událost, kterou začala tzv. sametová revoluce v roce 1989. Kde v Praze se tento památník nachází?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Celetné ulici."
+      },
+      {
+        "letter": "B",
+        "text": "Na Národní třídě."
+      },
+      {
+        "letter": "C",
+        "text": "Ve Vodičkově ulici."
+      },
+      {
+        "letter": "D",
+        "text": "V ulici Milady Horákové."
+      }
+    ],
+    "correctAnswer": "B",
+    "imageUrl": "17listopadu89_pomnik_(detail).JPG",
+    "imageAlt": "Památník 17. listopadu 1989"
+  },
+  {
+    "id": "28.6",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 6,
+    "text": "Kterou z těchto funkcí vykonával Václav Havel?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Funkci předsedy vlády."
+      },
+      {
+        "letter": "B",
+        "text": "Funkci předsedy Senátu."
+      },
+      {
+        "letter": "C",
+        "text": "Funkci prezidenta republiky."
+      },
+      {
+        "letter": "D",
+        "text": "Funkci předsedy Poslanecké sněmovny."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "28.7",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 7,
+    "text": "Který den se slaví státní svátek Den obnovy samostatného českého státu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "28. září."
+      },
+      {
+        "letter": "B",
+        "text": "1. ledna."
+      },
+      {
+        "letter": "C",
+        "text": "28. října."
+      },
+      {
+        "letter": "D",
+        "text": "17. listopadu."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "28.8",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 8,
+    "text": "Kdo se stal českým prezidentem po Václavu Havlovi v roce 2003?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jan Švejnar."
+      },
+      {
+        "letter": "B",
+        "text": "Václav Klaus."
+      },
+      {
+        "letter": "C",
+        "text": "Miloš Zeman."
+      },
+      {
+        "letter": "D",
+        "text": "Vladimír Špidla."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "28.9",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 9,
+    "text": "Kdo se stal českým prezidentem po Miloši Zemanovi v roce 2023?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Petr Fiala."
+      },
+      {
+        "letter": "B",
+        "text": "Petr Pavel."
+      },
+      {
+        "letter": "C",
+        "text": "Andrej Babiš."
+      },
+      {
+        "letter": "D",
+        "text": "Miloš Vystrčil."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "28.10",
+    "sectionNumber": 28,
+    "sectionName": "DĚJINY ČESKA OD ROKU 1989",
+    "questionNumber": 10,
+    "text": "Kdy odešli z území Československa poslední sovětští vojáci, jejichž armáda obsadila Československo v roce 1968?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V roce 1989."
+      },
+      {
+        "letter": "B",
+        "text": "V roce 1991."
+      },
+      {
+        "letter": "C",
+        "text": "V roce 1993."
+      },
+      {
+        "letter": "D",
+        "text": "V roce 2004."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "29.1",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 1,
+    "text": "Které z těchto hudebních děl složil Antonín Dvořák?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Má vlast."
+      },
+      {
+        "letter": "B",
+        "text": "Z Nového světa."
+      },
+      {
+        "letter": "C",
+        "text": "Prodaná nevěsta."
+      },
+      {
+        "letter": "D",
+        "text": "Česká mše vánoční."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "29.2",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 2,
+    "text": "Jak se jmenuje hlavní postava nejznámějšího románu Jaroslava Haška?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Markéta Lazarová."
+      },
+      {
+        "letter": "B",
+        "text": "Josef Švejk."
+      },
+      {
+        "letter": "C",
+        "text": "Babička."
+      },
+      {
+        "letter": "D",
+        "text": "Josef K."
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "29.3",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 3,
+    "text": "Který český spisovatel získal Nobelovu cenu za literaturu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Franz Kafka."
+      },
+      {
+        "letter": "B",
+        "text": "Jaroslav Hašek."
+      },
+      {
+        "letter": "C",
+        "text": "Jaroslav Seifert."
+      },
+      {
+        "letter": "D",
+        "text": "Bohumil Hrabal."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "29.4",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 4,
+    "text": "Který slavný český režisér žil v USA a dostal dvě filmové ceny Oscar?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jan Svěrák."
+      },
+      {
+        "letter": "B",
+        "text": "Jiří Menzel."
+      },
+      {
+        "letter": "C",
+        "text": "Jan Hřebejk."
+      },
+      {
+        "letter": "D",
+        "text": "Miloš Forman."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "29.5",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 5,
+    "text": "Mendelova univerzita v Brně se jmenuje po Gregoru Johannu Mendelovi. Čím se tento muž zabýval?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Architekturou."
+      },
+      {
+        "letter": "B",
+        "text": "Klasickou hudbou."
+      },
+      {
+        "letter": "C",
+        "text": "Historií a politikou."
+      },
+      {
+        "letter": "D",
+        "text": "Pokusy s rostlinami."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "29.6",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 6,
+    "text": "Které slovo jako první na světě použil český spisovatel Karel Čapek ve svém dramatu R.U.R.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Supernova."
+      },
+      {
+        "letter": "B",
+        "text": "Astronaut."
+      },
+      {
+        "letter": "C",
+        "text": "Skafandr."
+      },
+      {
+        "letter": "D",
+        "text": "Robot."
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "29.7",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 7,
+    "text": "Jak se jmenoval český podnikatel a zakladatel významné strojírenské firmy v Plzni?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Emil Škoda."
+      },
+      {
+        "letter": "B",
+        "text": "Tomáš Baťa."
+      },
+      {
+        "letter": "C",
+        "text": "Emil Kolben."
+      },
+      {
+        "letter": "D",
+        "text": "Václav Laurin."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "29.8",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 8,
+    "text": "Který český vynálezce v 19. století uvedl do provozu první veřejné elektrické osvětlení a první elektrickou tramvaj v českých zemích?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Josef Ressel."
+      },
+      {
+        "letter": "B",
+        "text": "Otto Wichterle."
+      },
+      {
+        "letter": "C",
+        "text": "František Křižík."
+      },
+      {
+        "letter": "D",
+        "text": "Jaroslav Heyrovský."
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "29.9",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 9,
+    "text": "Jak se jmenuje literární dílo, které napsal Karel Hynek Mácha?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Máj."
+      },
+      {
+        "letter": "B",
+        "text": "Babička."
+      },
+      {
+        "letter": "C",
+        "text": "F. L. Věk."
+      },
+      {
+        "letter": "D",
+        "text": "Povídky malostranské."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "29.10",
+    "sectionNumber": 29,
+    "sectionName": "VÝZNAMNÉ OSOBNOSTI OD 19. STOLETÍ DO SOUČASNOSTI",
+    "questionNumber": 10,
+    "text": "Ve kterém sportovním odvětví se proslavil Emil Zátopek?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V lehké atletice."
+      },
+      {
+        "letter": "B",
+        "text": "V cyklistice."
+      },
+      {
+        "letter": "C",
+        "text": "Ve fotbale."
+      },
+      {
+        "letter": "D",
+        "text": "V hokeji."
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "30.1",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 1,
+    "text": "Dům U Černé Matky Boží je významnou stavbou kubistické architektury v Praze. Stavbu navrhl Josef Gočár. V budově je stálá výstava Český kubismus a kavárna. Na kterém obrázku je Dům U Černé Matky Boží?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "imageUrl": "Praha_1,_Staroměstské_náměstí_605-13_20170809_002.jpg",
+        "imageAlt": "Budova na Staroměstském náměstí"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "imageUrl": "Jurkovičova_vila.jpg",
+        "imageAlt": "Jurkovičova vila"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "imageUrl": "Tančící_dům,_Prague_01.jpg",
+        "imageAlt": "Tančící dům"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "imageUrl": "Dům_U_černé_Matky_Boží_02.JPG",
+        "imageAlt": "Dům U Černé Matky Boží"
+      }
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": "30.2",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 2,
+    "text": "Na kterém obrázku jsou Pražský hrad s gotickým Chrámem svatého Víta – symboly české státnosti?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "imageUrl": "Povodně_v_Praze,_33.jpg",
+        "imageAlt": "Budova v Praze"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "imageUrl": "Brno-Špilberk_2.jpg",
+        "imageAlt": "Hrad Špilberk v Brně"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "imageUrl": "Český_Krumlov,_zámek_Český_Krumlov.JPG",
+        "imageAlt": "Zámek Český Krumlov"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "imageUrl": "Český_Šternberk,_zámek_01.jpg",
+        "imageAlt": "Zámek Český Šternberk"
+      }
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "30.3",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 3,
+    "text": "Na kterém obrázku je Národní divadlo v Praze?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "imageUrl": "Rudolfinum_Prague.jpg",
+        "imageAlt": "Rudolfinum"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "imageUrl": "Narodni_divadlo_Praha.jpg",
+        "imageAlt": "Národní divadlo"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "imageUrl": "Prag_obecni_dûm_gemeindehaus.jpg",
+        "imageAlt": "Obecní dům"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "imageUrl": "Czech_National_Museum.jpg",
+        "imageAlt": "Národní muzeum"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "30.4",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 4,
+    "text": "Na kterém obrázku je hrad Karlštejn, který založil Karel IV.?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "imageUrl": "Hrad_Křivoklát_(Křivoklát).JPG",
+        "imageAlt": "Hrad Křivoklát"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "imageUrl": "Loket0809.JPG",
+        "imageAlt": "Hrad Loket"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "imageUrl": "Hrad_Karlštejn_06.jpg",
+        "imageAlt": "Hrad Karlštejn"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "imageUrl": "Hrad_Bouzov_(Bouzov),_Bouzov.JPG",
+        "imageAlt": "Hrad Bouzov"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "30.5",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 5,
+    "text": "Na kterém obrázku je Petřínská rozhledna v Praze?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "imageUrl": "Jested_002.JPG",
+        "imageAlt": "Ještěd"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "imageUrl": "PetrinObservationTower.jpg",
+        "imageAlt": "Petřínská rozhledna"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "imageUrl": "Hoher_Schneeberg_CZ_Turm.jpg",
+        "imageAlt": "Rozhledna na Děčínském Sněžníku"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "imageUrl": "Lednice,_minaret_(02).jpg",
+        "imageAlt": "Minaret v Lednici"
+      }
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "30.6",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 6,
+    "text": "Na obrázku je česká památka zapsaná v UNESCO. Jak se tato památka jmenuje?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zámek Litomyšl."
+      },
+      {
+        "letter": "B",
+        "text": "Zámek Český Krumlov."
+      },
+      {
+        "letter": "C",
+        "text": "Chrám sv. Barbory v Kutné Hoře."
+      },
+      {
+        "letter": "D",
+        "text": "Kostel sv. Jana Nepomuckého na Zelené hoře."
+      }
+    ],
+    "correctAnswer": "D",
+    "imageUrl": "KLG_4953_CZ_-_Žďár_nad_Sázavou,_Wallfahrtskirche_Zelená_Hora.jpg",
+    "imageAlt": "Poutní kostel sv. Jana Nepomuckého na Zelené hoře"
+  },
+  {
+    "id": "30.7",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 7,
+    "text": "Koho představuje tato socha na pražském Vítkově?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jana Žižku."
+      },
+      {
+        "letter": "B",
+        "text": "Miroslava Tyrše."
+      },
+      {
+        "letter": "C",
+        "text": "Jiřího z Poděbrad."
+      },
+      {
+        "letter": "D",
+        "text": "Tomáše Garrigua Masaryka."
+      }
+    ],
+    "correctAnswer": "A",
+    "imageUrl": "Národní_památník_na_Vítkově_(05).jpg",
+    "imageAlt": "Socha Jana Žižky na Vítkově"
+  },
+  {
+    "id": "30.8",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 8,
+    "text": "Vila Tugendhat (na obrázku) je na seznamu světového kulturního dědictví UNESCO. Kde se nachází?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "V Olomouci."
+      },
+      {
+        "letter": "B",
+        "text": "V Liberci."
+      },
+      {
+        "letter": "C",
+        "text": "V Praze."
+      },
+      {
+        "letter": "D",
+        "text": "V Brně."
+      }
+    ],
+    "correctAnswer": "D",
+    "imageUrl": "Tugendhat_Villa_in_Brno.jpg",
+    "imageAlt": "Vila Tugendhat v Brně"
+  },
+  {
+    "id": "30.9",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 9,
+    "text": "Orloj jsou středověké hodiny na věži. Na kterém obrázku je pražský orloj?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "imageUrl": "Olomoucky_Orloj.jpg",
+        "imageAlt": "Olomoucký orloj"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "imageUrl": "Praha,_Jindřišská,_věž.jpg",
+        "imageAlt": "Jindřišská věž"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "imageUrl": "Prazsky_orloj_celkovy_pohled.jpg",
+        "imageAlt": "Pražský orloj"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "imageUrl": "Žatec,_Chmelový_orloj.jpg",
+        "imageAlt": "Chmelový orloj v Žatci"
+      }
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": "30.10",
+    "sectionNumber": 30,
+    "sectionName": "UMĚNÍ OD STŘEDOVĚKU DO SOUČASNOSTI",
+    "questionNumber": 10,
+    "text": "Na obrázku je známá pražská budova ve stylu secese. K čemu slouží tato budova?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Je to banka."
+      },
+      {
+        "letter": "B",
+        "text": "Je to letiště."
+      },
+      {
+        "letter": "C",
+        "text": "Je to nádraží."
+      },
+      {
+        "letter": "D",
+        "text": "Je to parlament."
+      }
+    ],
+    "correctAnswer": "C",
+    "imageUrl": "Praha_2005-09-19_Main_Station-00.jpg",
+    "imageAlt": "Hlavní nádraží v Praze"
+  }
+]
