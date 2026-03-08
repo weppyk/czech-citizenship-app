@@ -1,0 +1,13 @@
+{
+  "correct": [
+    "25.5"
+  ],
+  "incorrect": [
+    "8.2",
+    "19.5"
+  ],
+  "total_attempts": 4,
+  "started_at": "2026-02-02T22:25:21.699577",
+  "last_updated": "2026-02-02T22:38:33.270454",
+  "last_question_id": "8.2"
+}

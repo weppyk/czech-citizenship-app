@@ -47,25 +47,38 @@ Produkční build se vytvoří v `dist/czech-citizenship-test/`
 ## 📁 Struktura Projektu
 
 ```
-czech-citizenship-test/
-├── src/
-│   ├── app/
-│   │   ├── core/               # Services, guards, models
-│   │   ├── shared/             # Sdílené komponenty
-│   │   ├── features/           # Feature moduly
-│   │   │   ├── home/           # Úvodní stránka
-│   │   │   ├── quiz/           # Kvíz
-│   │   │   └── statistics/     # Statistiky
-│   │   └── app.routes.ts
-│   ├── assets/
-│   │   ├── data/
-│   │   │   └── questions.json  # 291 otázek
-│   │   └── images/
-│   │       └── questions/      # 44 obrázků
-│   └── styles.scss
-└── scripts/
-    └── convert-markdown-to-json.ts
+.claude/
+└── skills/
+    ├── verify-questions/       # Skill pro validaci otázek vs. zdroj
+    └── test-obcanstvi/         # Skill pro procvičování
+databanka-otazek-obcanstvi.md  # Zdrojový dokument s otázkami
+src/
+├── app/
+│   ├── core/               # Services, guards, models
+│   ├── shared/             # Sdílené komponenty
+│   ├── features/           # Feature moduly
+│   │   ├── home/           # Úvodní stránka
+│   │   ├── quiz/           # Kvíz
+│   │   └── statistics/     # Statistiky
+│   └── app.routes.ts
+├── assets/
+│   ├── data/
+│   │   └── questions.json  # 300 otázek
+│   └── images/
+│       └── questions/      # Obrázky k otázkám
+└── styles.scss
+scripts/
+└── convert-markdown-to-json.ts
 ```
+
+## Claude Code Skills
+
+Při otevření Claude Code v tomto adresáři jsou automaticky dostupné skilly:
+
+### /verify-questions
+Ověří, že `src/assets/data/questions.json` odpovídá zdrojovému dokumentu `databanka-otazek-obcanstvi.md`. Kontroluje počet otázek, texty, pořadí možností, správné odpovědi a obrázky.
+
+**Oficialní zdroj:** https://cestina-pro-cizince.cz/obcanstvi/databanka-uloh/
 
 ## 🎮 Jak Používat
 
