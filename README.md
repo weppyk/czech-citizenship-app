@@ -2,6 +2,10 @@
 
 Moderní Angular 17+ aplikace pro interaktivní test českého občanství s 291 otázkami z českých reálií.
 
+## 🌐 Nasazení
+
+**Živá aplikace:** https://test-obcansvi.vercel.app
+
 ## ✨ Funkce
 
 - ✅ 291 otázek rozdělených do 26 sekcí
