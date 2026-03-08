@@ -4,7 +4,7 @@ Moderní Angular 17+ aplikace pro interaktivní test českého občanství s 291
 
 ## 🌐 Nasazení
 
-**Živá aplikace:** https://test-obcansvi.vercel.app
+**Živá aplikace:** https://test-obcansvti.vercel.app
 
 ## ✨ Funkce
 
