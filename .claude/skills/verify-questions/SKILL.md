@@ -120,6 +120,36 @@ From the image mapping tables in the markdown:
   matches what the question asks about (e.g., question asks "which is Masaryk?" →
   correctAnswer must point to option with imageAlt containing "Masaryk")
 
+**IMPORTANT — image table is incomplete**: The markdown image table does NOT list every
+question that uses a map. Always run Check 8 as well.
+
+### Check 8: Missing Map Images (CRITICAL)
+
+The markdown image table is known to omit some questions that need a map image. This causes
+the map to silently not appear in the app.
+
+**Step 1 — Find candidates**: Scan all questions in questions.json whose `text` contains
+phrases like "na mapě" or "číslo na mapě". List any that are missing an `imageUrl` field.
+
+**Step 2 — Identify the correct map image using sources**:
+- Look at the source markdown image tables to find map images used in nearby sections
+- List all `Mapa_*.jpg` files from `src/assets/images/questions/` to see what's available
+- Look at other questions in the same section that already have `imageUrl` set — they may
+  share the same map
+- If still unclear, fetch the official source website or PDF to see which map is shown
+  for that question:
+  - Website: https://cestina-pro-cizince.cz/obcanstvi/databanka-uloh/
+  - PDF: https://cestina-pro-cizince.cz/obcanstvi/wp-content/uploads/2026/01/OBC_databanka_testovychuloh_260105.pdf
+- Use the Read tool to visually inspect candidate map images from disk and confirm the
+  map's content matches the question's geographic subject
+
+**Step 3 — Verify correctAnswer against the map**: View the identified map image with the
+Read tool. Confirm that the `correctAnswer` letter corresponds to the option text (e.g.,
+"2.") whose number actually marks the correct city/region on the map.
+
+**Step 4 — Fix**: Add `"imageUrl": "CORRECT_MAP_FILENAME.jpg"` to the question in
+questions.json, immediately after the `"text"` field.
+
 **Verifying image file integrity:**
 - Use `file` command (e.g., `file image.jpg`) to confirm the file is a valid image (JPEG/PNG/SVG).
   If it returns "HTML document text", the file is corrupt — it's an error page that was saved instead of the real image.
@@ -198,3 +228,7 @@ These are real bugs we've caught before — pay extra attention to these pattern
 
 3. **Off-by-one in answer key**: correctAnswer "A" when source says "C" — a parsing error
    during initial data import.
+
+4. **Missing map imageUrl**: Question text says "na mapě" but JSON has no `imageUrl` — the
+   markdown image table is incomplete and doesn't list every question that uses a map.
+   Always run Check 8. Real example: Q21.8 (Plzeň) was missing its map image.
